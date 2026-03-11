@@ -37,6 +37,21 @@ function toHindiNumerals(val: string | number): string {
   return String(val).split('').map(char => HINDI_NUMERALS[char] || char).join('');
 }
 
+const GATIVIDHIS_IMG_URLS = [
+  'https://res.cloudinary.com/dsg5tzzdg/image/upload/v1773215872/212_z5bghy.jpg',
+  'https://res.cloudinary.com/dsg5tzzdg/image/upload/v1773215872/213_vkwlew.jpg',
+  'https://res.cloudinary.com/dsg5tzzdg/image/upload/v1773215872/214_hmhcpm.jpg',
+  'https://res.cloudinary.com/dsg5tzzdg/image/upload/v1773215872/215_fhksau.jpg',
+  'https://res.cloudinary.com/dsg5tzzdg/image/upload/v1773216902/216_e1espe.jpg',
+  'https://res.cloudinary.com/dsg5tzzdg/image/upload/v1773215873/WhatsApp_Image_2026-03-11_at_12.36.10_PM_usziqq.jpg',
+  'https://res.cloudinary.com/dsg5tzzdg/image/upload/v1773215873/WhatsApp_Image_2026-03-11_at_12.36.11_PM_u9eqhi.jpg',
+  'https://res.cloudinary.com/dsg5tzzdg/image/upload/v1773215873/211_oujyiw.jpg',
+  'https://res.cloudinary.com/dsg5tzzdg/image/upload/v1773215873/210_mh7mjj.jpg',
+  'https://res.cloudinary.com/dsg5tzzdg/image/upload/v1773215873/WhatsApp_Image_2026-03-11_at_12.36.10_PM_1_gjzxuk.jpg',
+  'https://res.cloudinary.com/dsg5tzzdg/image/upload/v1773215872/WhatsApp_Image_2026-03-11_at_12.36.09_PM_2_skenxv.jpg',
+  'https://res.cloudinary.com/dsg5tzzdg/image/upload/v1773215871/WhatsApp_Image_2026-03-11_at_12.36.09_PM_1_cyekcr.jpg',
+];
+
 const GATIVIDHIS = [
   {
     name: "महिला गतिविधि",
@@ -149,6 +164,7 @@ interface MonthProps {
 const MonthGrid = ({ monthName, vikramSamvat, panchangData, summary, gatividhi, monthIndex }: MonthProps) => {
   const firstDay = panchangData.length > 0 ? new Date(panchangData[0].date) : new Date();
   const startDayOfWeek = getDay(firstDay);
+  const monthImageUrl = GATIVIDHIS_IMG_URLS[monthIndex] || '';
   
   const gridDays = useMemo(() => {
     const days = [];
@@ -214,16 +230,23 @@ const MonthGrid = ({ monthName, vikramSamvat, panchangData, summary, gatividhi, 
           </div>
           
           <div className="grid grid-cols-1 gap-2">
-            {[1, 2].map(i => (
-              <div key={i} className="aspect-video bg-cream border border-maroon/10 rounded overflow-hidden relative">
-                <img 
-                  src={`https://picsum.photos/seed/bsm-${monthName}-${i}/400/225`} 
-                  alt={`Gatividhi ${i}`} 
-                  className="w-full h-full object-cover" 
-                  referrerPolicy="no-referrer" 
+            <div className="aspect-video bg-cream border border-maroon/10 rounded overflow-hidden relative">
+              {monthImageUrl ? (
+                <img
+                  src={monthImageUrl}
+                  alt={`${gatividhi.name} चित्र`}
+                  className="w-full h-full object-cover"
+                  referrerPolicy="no-referrer"
+                  onError={(e) => {
+                    (e.target as HTMLImageElement).style.display = 'none';
+                  }}
                 />
-              </div>
-            ))}
+              ) : (
+                <div className="w-full h-full flex items-center justify-center text-maroon/50 font-hindi text-sm bg-cream/40">
+                  चित्र उपलब्ध नहीं
+                </div>
+              )}
+            </div>
           </div>
         </div>
 
