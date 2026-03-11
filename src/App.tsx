@@ -171,15 +171,7 @@ const MonthGrid = ({ monthName, vikramSamvat, panchangData, summary, gatividhi, 
 
   return (
     <div className="flex flex-col h-full border-2 border-maroon/20 bg-white p-4 rounded-sm shadow-sm relative">
-      {/* Watermark */}
-      <div className="absolute inset-0 flex items-center justify-center pointer-events-none z-100">
-        <img
-          src={PRIMARY_LOGO_URL}
-          alt=""
-          className="w-450 h-450 object-contain opacity-[0.07]"
-          referrerPolicy="no-referrer"
-        />
-      </div>
+
       {/* Header Section */}
       <div className="relative z-10 flex justify-between items-end mb-4 border-b-2 border-saffron pb-2">
         <div className="flex flex-col">
@@ -236,11 +228,20 @@ const MonthGrid = ({ monthName, vikramSamvat, panchangData, summary, gatividhi, 
         </div>
 
         {/* Date Grid */}
-        <div className="flex-1 flex flex-col gap-4">
-          <div className="grid grid-cols-7 gap-px bg-maroon/10 border border-maroon/10">
+        <div className="relative flex-1 flex flex-col gap-4">
+          {/* Watermark centered on the dates table */}
+          <div className="absolute inset-0 flex items-center justify-center pointer-events-none z-100">
+            <img
+              src={PRIMARY_LOGO_URL}
+              alt=""
+              className="w-550 h-550 object-contain opacity-[0.08]"
+              referrerPolicy="no-referrer"
+            />
+          </div>
+          <div className="relative z-10 grid grid-cols-7 gap-px bg-maroon/10 border border-maroon/10">
             {DAYS_HINDI.map((day) => (
               <div key={day} className="bg-saffron/10 p-1 text-center">
-                <span className="text-[15px] font-hindi font-bold text-maroon uppercase tracking-wider">{day}</span>
+                <span className="text-[20px] font-hindi font-bold text-orange-600 uppercase tracking-wider">{day}</span>
               </div>
             ))}
             {gridDays.map((day, idx) => {
@@ -264,7 +265,7 @@ const MonthGrid = ({ monthName, vikramSamvat, panchangData, summary, gatividhi, 
                         {day.tithi}
                       </span>
                       <span className={cn(
-                        "text-[6px] font-hindi px-0.5 rounded",
+                        "text-[12px] font-hindi px-0.5 rounded",
                         day.paksha === 'शुक्ल' ? "bg-saffron/20 text-maroon" : "bg-gray-200 text-gray-600"
                       )}>
                         {day.paksha === 'शुक्ल' ? 'शु' : 'कृ'}
@@ -296,7 +297,7 @@ const MonthGrid = ({ monthName, vikramSamvat, panchangData, summary, gatividhi, 
           </div>
 
           {/* Bottom Grid: Festivals and Ayurvedic Advice */}
-          <div className="grid grid-cols-2 gap-4">
+          <div className="relative z-10 grid grid-cols-2 gap-4">
             {/* Festivals Grid */}
             <div className="border border-maroon/10 rounded-sm bg-white/40 p-2">
               <h4 className="text-[11px] font-hindi font-bold text-maroon border-b border-maroon/10 mb-1 pb-0.5">प्रमुख उत्सव एवं तिथियाँ</h4>
