@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&family=Tiro+Devanagari+Hindi:ital@0;1&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Hind", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", serif;
+  --font-hindi: "Tiro Devanagari Hindi", serif;
+  
+  --color-saffron: #FF9933;
+  --color-maroon: #800000;
+  --color-cream: #FFFDF5;
+}
+
+@layer base {
+  body {
+    @apply bg-cream text-maroon font-sans;
+  }
+}
+
+@media print {
+  @page {
+    size: 18in 15in landscape;
+    margin: 0;
+  }
+  .no-print {
+    display: none;
+  }
+  .print-area {
+    width: 18in;
+    height: 15in;
+    margin: 0;
+    padding: 0.5in;
+    box-shadow: none;
+  }
+}
