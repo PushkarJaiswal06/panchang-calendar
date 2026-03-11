@@ -171,8 +171,17 @@ const MonthGrid = ({ monthName, vikramSamvat, panchangData, summary, gatividhi, 
 
   return (
     <div className="flex flex-col h-full border-2 border-maroon/20 bg-white p-4 rounded-sm shadow-sm relative">
+      {/* Watermark */}
+      <div className="absolute inset-0 flex items-center justify-center pointer-events-none z-100">
+        <img
+          src={PRIMARY_LOGO_URL}
+          alt=""
+          className="w-450 h-450 object-contain opacity-[0.07]"
+          referrerPolicy="no-referrer"
+        />
+      </div>
       {/* Header Section */}
-      <div className="flex justify-between items-end mb-4 border-b-2 border-saffron pb-2">
+      <div className="relative z-10 flex justify-between items-end mb-4 border-b-2 border-saffron pb-2">
         <div className="flex flex-col">
           <div className="flex items-baseline gap-3">
             <h2 className="text-4xl font-hindi font-bold text-maroon leading-none">
@@ -195,7 +204,7 @@ const MonthGrid = ({ monthName, vikramSamvat, panchangData, summary, gatividhi, 
         </div>
       </div>
 
-      <div className="flex gap-4 flex-1">
+      <div className="relative z-10 flex gap-4 flex-1">
         {/* Activity and Photos Area */}
         <div className="w-1/4 flex flex-col gap-3">
           <div className="p-3 border-2 border-maroon/10 rounded-lg bg-cream/30 flex flex-col gap-2">
@@ -261,7 +270,7 @@ const MonthGrid = ({ monthName, vikramSamvat, panchangData, summary, gatividhi, 
                         {day.paksha === 'शुक्ल' ? 'शु' : 'कृ'}
                       </span>
                     </div>
-                    <span className="text-[7px] font-hindi text-maroon/40 leading-none italic truncate">
+                    <span className="text-[10px] font-hindi text-red/40 leading-none italic">
                       {day.nakshatra}
                     </span>
                   </div>
