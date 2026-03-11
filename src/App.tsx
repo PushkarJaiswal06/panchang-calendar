@@ -200,12 +200,12 @@ const MonthGrid = ({ monthName, vikramSamvat, panchangData, summary, gatividhi, 
         {/* Activity and Photos Area */}
         <div className="w-1/4 flex flex-col gap-3">
           <div className="p-3 border-2 border-maroon/10 rounded-lg bg-cream/30 flex flex-col gap-2">
-            <h3 className="text-sm font-hindi font-bold text-maroon border-b border-maroon/20 pb-1">
+            <h3 className="text-xl font-hindi font-bold text-maroon border-b border-maroon/20 pb-1">
               {toHindiNumerals(monthIndex + 1)}. {gatividhi.name}
             </h3>
             <ul className="flex flex-col gap-1.5">
               {gatividhi.points.map((point, i) => (
-                <li key={i} className="text-[11px] font-hindi text-maroon leading-tight flex gap-1">
+                <li key={i} className="text-[20px] font-hindi text-maroon leading-tight flex gap-1">
                   <span>•</span>
                   <span>{point}</span>
                 </li>
@@ -214,7 +214,7 @@ const MonthGrid = ({ monthName, vikramSamvat, panchangData, summary, gatividhi, 
           </div>
           
           <div className="grid grid-cols-1 gap-2">
-            {[1, 2, 3].map(i => (
+            {[1, 2].map(i => (
               <div key={i} className="aspect-video bg-cream border border-maroon/10 rounded overflow-hidden relative">
                 <img 
                   src={`https://picsum.photos/seed/bsm-${monthName}-${i}/400/225`} 
