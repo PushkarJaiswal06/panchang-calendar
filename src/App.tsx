@@ -505,8 +505,6 @@ export default function App() {
               पारंपरिक हिंदू पंचांग • विक्रम संवत {toHindiNumerals(2083)}
             </div>
             <div className="text-right">
-              <p className="font-hindi text-maroon font-bold">चैत्र कृष्ण प्रतिपदा (होली के अगले दिन) से प्रारंभ</p>
-              <p className="text-[10px] text-maroon/60 font-hindi">उच्च गुणवत्ता वाले प्रिंट के लिए डिज़ाइन किया गया</p>
             </div>
           </div>
         </div>
