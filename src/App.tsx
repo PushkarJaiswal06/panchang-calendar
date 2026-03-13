@@ -3,14 +3,14 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useMemo } from 'react';
 import { 
   format, 
   getDay, 
   isToday,
 } from 'date-fns';
 import { hi } from 'date-fns/locale';
-import { Printer, ChevronLeft, ChevronRight, Loader2 } from 'lucide-react';
+import { Printer, ChevronLeft, ChevronRight } from 'lucide-react';
 import { getPanchangForHinduMonth, PanchangData, MonthSummary } from './services/panchangService';
 import { clsx, type ClassValue } from 'clsx';
 import { twMerge } from 'tailwind-merge';
@@ -355,38 +355,20 @@ const MonthGrid = ({ monthName, vikramSamvat, panchangData, summary, gatividhi, 
 
 export default function App() {
   const [pageIndex, setPageIndex] = useState(0); 
-  const [panchangCache, setPanchangCache] = useState<Record<string, { days: PanchangData[], summary: MonthSummary }>>({});
-  const [loading, setLoading] = useState(false);
 
   const currentMonths = useMemo(() => {
     const start = pageIndex * 3;
     return HINDU_MONTHS.slice(start, start + 3);
   }, [pageIndex]);
 
-  useEffect(() => {
-    const fetchAllPanchang = async () => {
-      setLoading(true);
-      const newCache = { ...panchangCache };
-      let changed = false;
-
-      for (const monthName of currentMonths) {
-        const samvat = '2083'; 
-        const key = `${monthName}-${samvat}`;
-        
-        if (!newCache[key]) {
-          const data = await getPanchangForHinduMonth(monthName, samvat);
-          newCache[key] = data;
-          changed = true;
-        }
-      }
-
-      if (changed) {
-        setPanchangCache(newCache);
-      }
-      setLoading(false);
-    };
-
-    fetchAllPanchang();
+  const panchangCache = useMemo(() => {
+    const cache: Record<string, { days: PanchangData[], summary: MonthSummary }> = {};
+    for (const monthName of currentMonths) {
+      const samvat = '2083';
+      const key = `${monthName}-${samvat}`;
+      cache[key] = getPanchangForHinduMonth(monthName, samvat);
+    }
+    return cache;
   }, [currentMonths]);
 
   const handlePrev = () => setPageIndex(prev => Math.max(0, prev - 1));
@@ -421,12 +403,6 @@ export default function App() {
         </div>
         
         <div className="flex items-center gap-4">
-          {loading && (
-            <div className="flex items-center gap-2 text-saffron">
-              <Loader2 className="w-4 h-4 animate-spin" />
-              <span className="text-sm font-hindi">पंचांग गणना...</span>
-            </div>
-          )}
           <button 
             onClick={handlePrint}
             className="flex items-center gap-2 bg-maroon text-white px-6 py-2 rounded-full hover:bg-maroon/90 transition-all shadow-lg"

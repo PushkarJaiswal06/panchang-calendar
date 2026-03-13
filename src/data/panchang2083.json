@@ -1,0 +1,3828 @@
+{
+  "vikramSamvat": 2083,
+  "calendarType": "पूर्णिमांत",
+  "generatedAt": "2026-03-12T18:32:10.623Z",
+  "totalDays": 357,
+  "months": {
+    "चैत्र-2083": {
+      "days": [
+        {
+          "date": "2026-03-04",
+          "tithi": "कृष्ण प्रतिपदा",
+          "nakshatra": "चित्रा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 1
+        },
+        {
+          "date": "2026-03-05",
+          "tithi": "कृष्ण द्वितीया",
+          "nakshatra": "स्वाति",
+          "paksha": "कृष्ण",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 2
+        },
+        {
+          "date": "2026-03-06",
+          "tithi": "कृष्ण तृतीया",
+          "nakshatra": "विशाखा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 3
+        },
+        {
+          "date": "2026-03-07",
+          "tithi": "कृष्ण चतुर्थी",
+          "nakshatra": "अनुराधा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 4
+        },
+        {
+          "date": "2026-03-08",
+          "tithi": "कृष्ण पंचमी",
+          "nakshatra": "ज्येष्ठा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 5
+        },
+        {
+          "date": "2026-03-09",
+          "tithi": "कृष्ण षष्ठी",
+          "nakshatra": "मूल",
+          "paksha": "कृष्ण",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 6
+        },
+        {
+          "date": "2026-03-10",
+          "tithi": "कृष्ण सप्तमी",
+          "nakshatra": "पूर्वाषाढ़ा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 7
+        },
+        {
+          "date": "2026-03-11",
+          "tithi": "कृष्ण अष्टमी",
+          "nakshatra": "उत्तराषाढ़ा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 8
+        },
+        {
+          "date": "2026-03-12",
+          "tithi": "कृष्ण नवमी",
+          "nakshatra": "श्रवण",
+          "paksha": "कृष्ण",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 9
+        },
+        {
+          "date": "2026-03-13",
+          "tithi": "कृष्ण दशमी",
+          "nakshatra": "धनिष्ठा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 10,
+          "festival": "रंग पंचमी"
+        },
+        {
+          "date": "2026-03-14",
+          "tithi": "कृष्ण एकादशी",
+          "nakshatra": "शतभिषा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 11,
+          "festival": "पापमोचनी एकादशी"
+        },
+        {
+          "date": "2026-03-15",
+          "tithi": "कृष्ण द्वादशी",
+          "nakshatra": "पूर्व भाद्रपद",
+          "paksha": "कृष्ण",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 12
+        },
+        {
+          "date": "2026-03-16",
+          "tithi": "कृष्ण त्रयोदशी",
+          "nakshatra": "उत्तर भाद्रपद",
+          "paksha": "कृष्ण",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 13
+        },
+        {
+          "date": "2026-03-17",
+          "tithi": "कृष्ण चतुर्दशी",
+          "nakshatra": "रेवती",
+          "paksha": "कृष्ण",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 14,
+          "festival": "चैत्र अमावस्या"
+        },
+        {
+          "date": "2026-03-18",
+          "tithi": "अमावस्या",
+          "nakshatra": "अश्विनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 15
+        },
+        {
+          "date": "2026-03-19",
+          "tithi": "शुक्ल प्रतिपदा",
+          "nakshatra": "भरणी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 16,
+          "festival": "गुड़ी पड़वा, उगादि, चैत्र नवरात्र प्रारंभ"
+        },
+        {
+          "date": "2026-03-20",
+          "tithi": "शुक्ल द्वितीया",
+          "nakshatra": "कृत्तिका",
+          "paksha": "शुक्ल",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 17
+        },
+        {
+          "date": "2026-03-21",
+          "tithi": "शुक्ल तृतीया",
+          "nakshatra": "रोहिणी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 18,
+          "festival": "शीतला अष्टमी"
+        },
+        {
+          "date": "2026-03-22",
+          "tithi": "शुक्ल चतुर्थी",
+          "nakshatra": "मृगशिरा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 19,
+          "festival": "गणगौर"
+        },
+        {
+          "date": "2026-03-23",
+          "tithi": "शुक्ल पंचमी",
+          "nakshatra": "आर्द्रा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 20
+        },
+        {
+          "date": "2026-03-24",
+          "tithi": "शुक्ल षष्ठी",
+          "nakshatra": "पुनर्वसु",
+          "paksha": "शुक्ल",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 21
+        },
+        {
+          "date": "2026-03-25",
+          "tithi": "शुक्ल सप्तमी",
+          "nakshatra": "पुष्य",
+          "paksha": "शुक्ल",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 22
+        },
+        {
+          "date": "2026-03-26",
+          "tithi": "शुक्ल अष्टमी",
+          "nakshatra": "आश्लेषा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 23,
+          "festival": "दुर्गा अष्टमी"
+        },
+        {
+          "date": "2026-03-27",
+          "tithi": "शुक्ल नवमी",
+          "nakshatra": "मघा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 24,
+          "festival": "राम नवमी"
+        },
+        {
+          "date": "2026-03-28",
+          "tithi": "शुक्ल दशमी",
+          "nakshatra": "पूर्व फाल्गुनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 25
+        },
+        {
+          "date": "2026-03-29",
+          "tithi": "शुक्ल एकादशी",
+          "nakshatra": "उत्तर फाल्गुनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 26,
+          "festival": "कामदा एकादशी"
+        },
+        {
+          "date": "2026-03-30",
+          "tithi": "शुक्ल द्वादशी",
+          "nakshatra": "हस्त",
+          "paksha": "शुक्ल",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 27
+        },
+        {
+          "date": "2026-03-31",
+          "tithi": "शुक्ल त्रयोदशी",
+          "nakshatra": "चित्रा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 28
+        },
+        {
+          "date": "2026-04-01",
+          "tithi": "शुक्ल चतुर्दशी",
+          "nakshatra": "स्वाति",
+          "paksha": "शुक्ल",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 29
+        },
+        {
+          "date": "2026-04-02",
+          "tithi": "पूर्णिमा",
+          "nakshatra": "विशाखा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "चैत्र",
+          "vikramSamvat": "2083",
+          "dayNumber": 30,
+          "festival": "हनुमान जयंती"
+        }
+      ],
+      "summary": {
+        "festivals": [
+          {
+            "name": "रंग पंचमी",
+            "tithi": "चैत्र कृष्ण पंचमी"
+          },
+          {
+            "name": "शीतला अष्टमी",
+            "tithi": "चैत्र शुक्ल तृतीया"
+          },
+          {
+            "name": "चैत्र अमावस्या",
+            "tithi": "चैत्र अमावस्या"
+          },
+          {
+            "name": "गुड़ी पड़वा, उगादि",
+            "tithi": "चैत्र शुक्ल प्रतिपदा"
+          },
+          {
+            "name": "चैत्र नवरात्र प्रारंभ",
+            "tithi": "चैत्र शुक्ल प्रतिपदा"
+          },
+          {
+            "name": "दुर्गा अष्टमी",
+            "tithi": "चैत्र शुक्ल अष्टमी"
+          },
+          {
+            "name": "राम नवमी",
+            "tithi": "चैत्र शुक्ल नवमी"
+          },
+          {
+            "name": "हनुमान जयंती",
+            "tithi": "चैत्र पूर्णिमा"
+          }
+        ],
+        "ayurvedicAdvice": [
+          {
+            "category": "आहार",
+            "advice": "हलका, सुपाच्य भोजन करें। शहद, पुदीना और कड़वे शाक पदार्थ शामिल करें।"
+          },
+          {
+            "category": "विहार",
+            "advice": "नियमित व्यायाम, योग और प्राणायाम करें। उबटन (सूखे पाउडर से मालिश) करें।"
+          },
+          {
+            "category": "औषधि",
+            "advice": "नीम की पत्तियों का सेवन करें और तुलसी का काढ़ा लाभकारी है।"
+          }
+        ]
+      }
+    },
+    "वैशाख-2083": {
+      "days": [
+        {
+          "date": "2026-04-03",
+          "tithi": "कृष्ण प्रतिपदा",
+          "nakshatra": "अनुराधा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 1
+        },
+        {
+          "date": "2026-04-04",
+          "tithi": "कृष्ण द्वितीया",
+          "nakshatra": "ज्येष्ठा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 2
+        },
+        {
+          "date": "2026-04-05",
+          "tithi": "कृष्ण तृतीया",
+          "nakshatra": "मूल",
+          "paksha": "कृष्ण",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 3
+        },
+        {
+          "date": "2026-04-06",
+          "tithi": "कृष्ण चतुर्थी",
+          "nakshatra": "पूर्वाषाढ़ा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 4
+        },
+        {
+          "date": "2026-04-07",
+          "tithi": "कृष्ण पंचमी",
+          "nakshatra": "उत्तराषाढ़ा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 5
+        },
+        {
+          "date": "2026-04-08",
+          "tithi": "कृष्ण षष्ठी",
+          "nakshatra": "श्रवण",
+          "paksha": "कृष्ण",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 6
+        },
+        {
+          "date": "2026-04-09",
+          "tithi": "कृष्ण सप्तमी",
+          "nakshatra": "धनिष्ठा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 7
+        },
+        {
+          "date": "2026-04-10",
+          "tithi": "कृष्ण अष्टमी",
+          "nakshatra": "शतभिषा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 8
+        },
+        {
+          "date": "2026-04-11",
+          "tithi": "कृष्ण नवमी",
+          "nakshatra": "पूर्व भाद्रपद",
+          "paksha": "कृष्ण",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 9
+        },
+        {
+          "date": "2026-04-12",
+          "tithi": "कृष्ण दशमी",
+          "nakshatra": "उत्तर भाद्रपद",
+          "paksha": "कृष्ण",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 10
+        },
+        {
+          "date": "2026-04-13",
+          "tithi": "कृष्ण एकादशी",
+          "nakshatra": "रेवती",
+          "paksha": "कृष्ण",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 11,
+          "festival": "वरूथिनी एकादशी"
+        },
+        {
+          "date": "2026-04-14",
+          "tithi": "कृष्ण द्वादशी",
+          "nakshatra": "अश्विनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 12,
+          "festival": "प्रदोष व्रत"
+        },
+        {
+          "date": "2026-04-15",
+          "tithi": "कृष्ण त्रयोदशी",
+          "nakshatra": "भरणी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 13,
+          "festival": "मासिक शिवरात्रि"
+        },
+        {
+          "date": "2026-04-16",
+          "tithi": "कृष्ण चतुर्दशी",
+          "nakshatra": "कृत्तिका",
+          "paksha": "कृष्ण",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 14
+        },
+        {
+          "date": "2026-04-17",
+          "tithi": "अमावस्या",
+          "nakshatra": "रोहिणी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 15
+        },
+        {
+          "date": "2026-04-18",
+          "tithi": "शुक्ल प्रतिपदा",
+          "nakshatra": "मृगशिरा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 16
+        },
+        {
+          "date": "2026-04-19",
+          "tithi": "शुक्ल द्वितीया",
+          "nakshatra": "आर्द्रा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 17
+        },
+        {
+          "date": "2026-04-20",
+          "tithi": "शुक्ल तृतीया",
+          "nakshatra": "पुनर्वसु",
+          "paksha": "शुक्ल",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 18,
+          "festival": "अक्षय तृतीया"
+        },
+        {
+          "date": "2026-04-21",
+          "tithi": "शुक्ल चतुर्थी",
+          "nakshatra": "पुष्य",
+          "paksha": "शुक्ल",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 19
+        },
+        {
+          "date": "2026-04-22",
+          "tithi": "शुक्ल पंचमी",
+          "nakshatra": "आश्लेषा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 20
+        },
+        {
+          "date": "2026-04-23",
+          "tithi": "शुक्ल षष्ठी",
+          "nakshatra": "मघा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 21
+        },
+        {
+          "date": "2026-04-24",
+          "tithi": "शुक्ल सप्तमी",
+          "nakshatra": "पूर्व फाल्गुनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 22
+        },
+        {
+          "date": "2026-04-25",
+          "tithi": "शुक्ल अष्टमी",
+          "nakshatra": "उत्तर फाल्गुनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 23
+        },
+        {
+          "date": "2026-04-26",
+          "tithi": "शुक्ल नवमी",
+          "nakshatra": "हस्त",
+          "paksha": "शुक्ल",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 24
+        },
+        {
+          "date": "2026-04-27",
+          "tithi": "शुक्ल दशमी",
+          "nakshatra": "चित्रा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 25
+        },
+        {
+          "date": "2026-04-28",
+          "tithi": "शुक्ल एकादशी",
+          "nakshatra": "स्वाति",
+          "paksha": "शुक्ल",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 26,
+          "festival": "मोहिनी एकादशी"
+        },
+        {
+          "date": "2026-04-29",
+          "tithi": "शुक्ल द्वादशी",
+          "nakshatra": "विशाखा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 27
+        },
+        {
+          "date": "2026-04-30",
+          "tithi": "शुक्ल त्रयोदशी",
+          "nakshatra": "अनुराधा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 28,
+          "festival": "नरसिंह जयंती"
+        },
+        {
+          "date": "2026-05-01",
+          "tithi": "शुक्ल चतुर्दशी",
+          "nakshatra": "ज्येष्ठा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 29,
+          "festival": "नृसिंह चतुर्दशी"
+        },
+        {
+          "date": "2026-05-02",
+          "tithi": "पूर्णिमा",
+          "nakshatra": "मूल",
+          "paksha": "शुक्ल",
+          "hinduMonth": "वैशाख",
+          "vikramSamvat": "2083",
+          "dayNumber": 30,
+          "festival": "बुद्ध पूर्णिमा, वैशाख पूर्णिमा"
+        }
+      ],
+      "summary": {
+        "festivals": [
+          {
+            "name": "वरूथिनी एकादशी",
+            "tithi": "वैशाख कृष्ण एकादशी"
+          },
+          {
+            "name": "अक्षय तृतीया",
+            "tithi": "वैशाख शुक्ल तृतीया"
+          },
+          {
+            "name": "मोहिनी एकादशी",
+            "tithi": "वैशाख शुक्ल एकादशी"
+          },
+          {
+            "name": "नरसिंह जयंती",
+            "tithi": "वैशाख शुक्ल चतुर्दशी"
+          },
+          {
+            "name": "बुद्ध पूर्णिमा",
+            "tithi": "वैशाख पूर्णिमा"
+          }
+        ],
+        "ayurvedicAdvice": [
+          {
+            "category": "आहार",
+            "advice": "इस माह ग्रीष्म ऋतु का प्रताप बढ़ता है, आम पना और ठंडे पेय पदार्थों का सेवन करें।"
+          },
+          {
+            "category": "विहार",
+            "advice": "तले हुए और कड़वे भोजन से परहेज करें क्योंकि यह पित्त को बढ़ाता है।"
+          },
+          {
+            "category": "औषधि",
+            "advice": "दोपहर की तेज धूप में बाहर न जाएं और शीतल वातावरण में विश्राम करें।"
+          }
+        ]
+      }
+    },
+    "ज्येष्ठ-2083": {
+      "days": [
+        {
+          "date": "2026-05-03",
+          "tithi": "कृष्ण प्रतिपदा",
+          "nakshatra": "पूर्वाषाढ़ा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 1
+        },
+        {
+          "date": "2026-05-04",
+          "tithi": "कृष्ण द्वितीया",
+          "nakshatra": "उत्तराषाढ़ा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 2
+        },
+        {
+          "date": "2026-05-05",
+          "tithi": "कृष्ण तृतीया",
+          "nakshatra": "श्रवण",
+          "paksha": "कृष्ण",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 3
+        },
+        {
+          "date": "2026-05-06",
+          "tithi": "कृष्ण चतुर्थी",
+          "nakshatra": "धनिष्ठा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 4
+        },
+        {
+          "date": "2026-05-07",
+          "tithi": "कृष्ण पंचमी",
+          "nakshatra": "शतभिषा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 5
+        },
+        {
+          "date": "2026-05-08",
+          "tithi": "कृष्ण षष्ठी",
+          "nakshatra": "पूर्व भाद्रपद",
+          "paksha": "कृष्ण",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 6
+        },
+        {
+          "date": "2026-05-09",
+          "tithi": "कृष्ण सप्तमी",
+          "nakshatra": "उत्तर भाद्रपद",
+          "paksha": "कृष्ण",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 7
+        },
+        {
+          "date": "2026-05-10",
+          "tithi": "कृष्ण अष्टमी",
+          "nakshatra": "रेवती",
+          "paksha": "कृष्ण",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 8
+        },
+        {
+          "date": "2026-05-11",
+          "tithi": "कृष्ण नवमी",
+          "nakshatra": "अश्विनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 9
+        },
+        {
+          "date": "2026-05-12",
+          "tithi": "कृष्ण दशमी",
+          "nakshatra": "भरणी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 10
+        },
+        {
+          "date": "2026-05-13",
+          "tithi": "कृष्ण एकादशी",
+          "nakshatra": "कृत्तिका",
+          "paksha": "कृष्ण",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 11,
+          "festival": "अपरा एकादशी"
+        },
+        {
+          "date": "2026-05-14",
+          "tithi": "कृष्ण द्वादशी",
+          "nakshatra": "रोहिणी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 12
+        },
+        {
+          "date": "2026-05-15",
+          "tithi": "कृष्ण त्रयोदशी",
+          "nakshatra": "मृगशिरा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 13
+        },
+        {
+          "date": "2026-05-16",
+          "tithi": "कृष्ण चतुर्दशी",
+          "nakshatra": "आर्द्रा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 14
+        },
+        {
+          "date": "2026-05-17",
+          "tithi": "अमावस्या",
+          "nakshatra": "पुनर्वसु",
+          "paksha": "कृष्ण",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 15,
+          "festival": "ज्येष्ठ अमावस्या"
+        },
+        {
+          "date": "2026-05-18",
+          "tithi": "शुक्ल प्रतिपदा",
+          "nakshatra": "पुष्य",
+          "paksha": "शुक्ल",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 16
+        },
+        {
+          "date": "2026-05-19",
+          "tithi": "शुक्ल द्वितीया",
+          "nakshatra": "आश्लेषा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 17
+        },
+        {
+          "date": "2026-05-20",
+          "tithi": "शुक्ल तृतीया",
+          "nakshatra": "मघा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 18
+        },
+        {
+          "date": "2026-05-21",
+          "tithi": "शुक्ल चतुर्थी",
+          "nakshatra": "पूर्व फाल्गुनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 19
+        },
+        {
+          "date": "2026-05-22",
+          "tithi": "शुक्ल पंचमी",
+          "nakshatra": "उत्तर फाल्गुनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 20
+        },
+        {
+          "date": "2026-05-23",
+          "tithi": "शुक्ल षष्ठी",
+          "nakshatra": "हस्त",
+          "paksha": "शुक्ल",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 21
+        },
+        {
+          "date": "2026-05-24",
+          "tithi": "शुक्ल सप्तमी",
+          "nakshatra": "चित्रा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 22
+        },
+        {
+          "date": "2026-05-25",
+          "tithi": "शुक्ल अष्टमी",
+          "nakshatra": "स्वाति",
+          "paksha": "शुक्ल",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 23
+        },
+        {
+          "date": "2026-05-26",
+          "tithi": "शुक्ल नवमी",
+          "nakshatra": "विशाखा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 24
+        },
+        {
+          "date": "2026-05-27",
+          "tithi": "शुक्ल दशमी",
+          "nakshatra": "अनुराधा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 25,
+          "festival": "गंगा दशहरा"
+        },
+        {
+          "date": "2026-05-28",
+          "tithi": "शुक्ल एकादशी",
+          "nakshatra": "ज्येष्ठा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 26,
+          "festival": "निर्जला एकादशी"
+        },
+        {
+          "date": "2026-05-29",
+          "tithi": "शुक्ल द्वादशी",
+          "nakshatra": "मूल",
+          "paksha": "शुक्ल",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 27
+        },
+        {
+          "date": "2026-05-30",
+          "tithi": "शुक्ल त्रयोदशी",
+          "nakshatra": "पूर्वाषाढ़ा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 28
+        },
+        {
+          "date": "2026-05-31",
+          "tithi": "शुक्ल चतुर्दशी",
+          "nakshatra": "उत्तराषाढ़ा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "ज्येष्ठ",
+          "vikramSamvat": "2083",
+          "dayNumber": 29
+        }
+      ],
+      "summary": {
+        "festivals": [
+          {
+            "name": "अपरा एकादशी",
+            "tithi": "ज्येष्ठ कृष्ण एकादशी"
+          },
+          {
+            "name": "गंगा दशहरा",
+            "tithi": "ज्येष्ठ शुक्ल दशमी"
+          },
+          {
+            "name": "निर्जला एकादशी",
+            "tithi": "ज्येष्ठ शुक्ल एकादशी"
+          },
+          {
+            "name": "वट सावित्री व्रत",
+            "tithi": "ज्येष्ठ पूर्णिमा"
+          }
+        ],
+        "ayurvedicAdvice": [
+          {
+            "category": "आहार",
+            "advice": "ज्येष्ठ माह में तरल पदार्थों का सेवन करें जैसे सत्तू पानी और ठंडा।"
+          },
+          {
+            "category": "विहार",
+            "advice": "सोंठ और मुनक्का रात्रि भोजन से प्राकृतिक है।"
+          },
+          {
+            "category": "औषधि",
+            "advice": "दोपहर की तेज धूप में बाहर न जाएं और शीतल माध्यम का विश्राम करें।"
+          }
+        ]
+      }
+    },
+    "आषाढ़-2083": {
+      "days": [
+        {
+          "date": "2026-06-01",
+          "tithi": "कृष्ण प्रतिपदा",
+          "nakshatra": "श्रवण",
+          "paksha": "कृष्ण",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 1
+        },
+        {
+          "date": "2026-06-02",
+          "tithi": "कृष्ण द्वितीया",
+          "nakshatra": "धनिष्ठा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 2
+        },
+        {
+          "date": "2026-06-03",
+          "tithi": "कृष्ण तृतीया",
+          "nakshatra": "शतभिषा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 3
+        },
+        {
+          "date": "2026-06-04",
+          "tithi": "कृष्ण चतुर्थी",
+          "nakshatra": "पूर्व भाद्रपद",
+          "paksha": "कृष्ण",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 4
+        },
+        {
+          "date": "2026-06-05",
+          "tithi": "कृष्ण पंचमी",
+          "nakshatra": "उत्तर भाद्रपद",
+          "paksha": "कृष्ण",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 5
+        },
+        {
+          "date": "2026-06-06",
+          "tithi": "कृष्ण षष्ठी",
+          "nakshatra": "रेवती",
+          "paksha": "कृष्ण",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 6
+        },
+        {
+          "date": "2026-06-07",
+          "tithi": "कृष्ण सप्तमी",
+          "nakshatra": "अश्विनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 7
+        },
+        {
+          "date": "2026-06-08",
+          "tithi": "कृष्ण अष्टमी",
+          "nakshatra": "भरणी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 8
+        },
+        {
+          "date": "2026-06-09",
+          "tithi": "कृष्ण नवमी",
+          "nakshatra": "कृत्तिका",
+          "paksha": "कृष्ण",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 9
+        },
+        {
+          "date": "2026-06-10",
+          "tithi": "कृष्ण दशमी",
+          "nakshatra": "रोहिणी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 10
+        },
+        {
+          "date": "2026-06-11",
+          "tithi": "कृष्ण एकादशी",
+          "nakshatra": "मृगशिरा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 11,
+          "festival": "योगिनी एकादशी"
+        },
+        {
+          "date": "2026-06-12",
+          "tithi": "कृष्ण द्वादशी",
+          "nakshatra": "आर्द्रा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 12
+        },
+        {
+          "date": "2026-06-13",
+          "tithi": "कृष्ण त्रयोदशी",
+          "nakshatra": "पुनर्वसु",
+          "paksha": "कृष्ण",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 13
+        },
+        {
+          "date": "2026-06-14",
+          "tithi": "कृष्ण चतुर्दशी",
+          "nakshatra": "पुष्य",
+          "paksha": "कृष्ण",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 14
+        },
+        {
+          "date": "2026-06-15",
+          "tithi": "अमावस्या",
+          "nakshatra": "आश्लेषा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 15,
+          "festival": "आषाढ़ अमावस्या"
+        },
+        {
+          "date": "2026-06-16",
+          "tithi": "शुक्ल प्रतिपदा",
+          "nakshatra": "मघा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 16
+        },
+        {
+          "date": "2026-06-17",
+          "tithi": "शुक्ल द्वितीया",
+          "nakshatra": "पूर्व फाल्गुनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 17,
+          "festival": "रथ यात्रा"
+        },
+        {
+          "date": "2026-06-18",
+          "tithi": "शुक्ल तृतीया",
+          "nakshatra": "उत्तर फाल्गुनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 18
+        },
+        {
+          "date": "2026-06-19",
+          "tithi": "शुक्ल चतुर्थी",
+          "nakshatra": "हस्त",
+          "paksha": "शुक्ल",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 19
+        },
+        {
+          "date": "2026-06-20",
+          "tithi": "शुक्ल पंचमी",
+          "nakshatra": "चित्रा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 20
+        },
+        {
+          "date": "2026-06-21",
+          "tithi": "शुक्ल षष्ठी",
+          "nakshatra": "स्वाति",
+          "paksha": "शुक्ल",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 21
+        },
+        {
+          "date": "2026-06-22",
+          "tithi": "शुक्ल सप्तमी",
+          "nakshatra": "विशाखा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 22
+        },
+        {
+          "date": "2026-06-23",
+          "tithi": "शुक्ल अष्टमी",
+          "nakshatra": "अनुराधा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 23
+        },
+        {
+          "date": "2026-06-24",
+          "tithi": "शुक्ल नवमी",
+          "nakshatra": "ज्येष्ठा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 24
+        },
+        {
+          "date": "2026-06-25",
+          "tithi": "शुक्ल दशमी",
+          "nakshatra": "मूल",
+          "paksha": "शुक्ल",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 25
+        },
+        {
+          "date": "2026-06-26",
+          "tithi": "शुक्ल एकादशी",
+          "nakshatra": "पूर्वाषाढ़ा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 26,
+          "festival": "देवशयनी एकादशी"
+        },
+        {
+          "date": "2026-06-27",
+          "tithi": "शुक्ल द्वादशी",
+          "nakshatra": "उत्तराषाढ़ा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 27
+        },
+        {
+          "date": "2026-06-28",
+          "tithi": "शुक्ल त्रयोदशी",
+          "nakshatra": "श्रवण",
+          "paksha": "शुक्ल",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 28
+        },
+        {
+          "date": "2026-06-29",
+          "tithi": "शुक्ल चतुर्दशी",
+          "nakshatra": "धनिष्ठा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 29
+        },
+        {
+          "date": "2026-06-30",
+          "tithi": "पूर्णिमा",
+          "nakshatra": "शतभिषा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "आषाढ़",
+          "vikramSamvat": "2083",
+          "dayNumber": 30,
+          "festival": "गुरु पूर्णिमा"
+        }
+      ],
+      "summary": {
+        "festivals": [
+          {
+            "name": "योगिनी एकादशी",
+            "tithi": "आषाढ़ कृष्ण एकादशी"
+          },
+          {
+            "name": "रथ यात्रा",
+            "tithi": "आषाढ़ शुक्ल द्वितीया"
+          },
+          {
+            "name": "देवशयनी एकादशी",
+            "tithi": "आषाढ़ शुक्ल एकादशी"
+          },
+          {
+            "name": "गुरु पूर्णिमा",
+            "tithi": "आषाढ़ पूर्णिमा"
+          }
+        ],
+        "ayurvedicAdvice": [
+          {
+            "category": "आहार",
+            "advice": "वर्षा ऋतु के आरंभ के कारण अग्निदीपन पद हो जाती है, अदरक, इलायची और मसालेदार भोजन करें।"
+          },
+          {
+            "category": "विहार",
+            "advice": "मच्छर को जाल्पवार और चिपचिपा गिरे तालिक सत्कालम में बंद हो जाते।"
+          },
+          {
+            "category": "औषधि",
+            "advice": "दिन में मोड़ में बारे और ज्यादि वाली मन्जबी से दूर रहे।"
+          }
+        ]
+      }
+    },
+    "श्रावण-2083": {
+      "days": [
+        {
+          "date": "2026-07-01",
+          "tithi": "कृष्ण प्रतिपदा",
+          "nakshatra": "पूर्व भाद्रपद",
+          "paksha": "कृष्ण",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 1
+        },
+        {
+          "date": "2026-07-02",
+          "tithi": "कृष्ण द्वितीया",
+          "nakshatra": "उत्तर भाद्रपद",
+          "paksha": "कृष्ण",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 2
+        },
+        {
+          "date": "2026-07-03",
+          "tithi": "कृष्ण तृतीया",
+          "nakshatra": "रेवती",
+          "paksha": "कृष्ण",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 3
+        },
+        {
+          "date": "2026-07-04",
+          "tithi": "कृष्ण चतुर्थी",
+          "nakshatra": "अश्विनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 4
+        },
+        {
+          "date": "2026-07-05",
+          "tithi": "कृष्ण पंचमी",
+          "nakshatra": "भरणी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 5,
+          "festival": "नाग पंचमी"
+        },
+        {
+          "date": "2026-07-06",
+          "tithi": "कृष्ण षष्ठी",
+          "nakshatra": "कृत्तिका",
+          "paksha": "कृष्ण",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 6
+        },
+        {
+          "date": "2026-07-07",
+          "tithi": "कृष्ण सप्तमी",
+          "nakshatra": "रोहिणी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 7
+        },
+        {
+          "date": "2026-07-08",
+          "tithi": "कृष्ण अष्टमी",
+          "nakshatra": "मृगशिरा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 8
+        },
+        {
+          "date": "2026-07-09",
+          "tithi": "कृष्ण नवमी",
+          "nakshatra": "आर्द्रा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 9
+        },
+        {
+          "date": "2026-07-10",
+          "tithi": "कृष्ण दशमी",
+          "nakshatra": "पुनर्वसु",
+          "paksha": "कृष्ण",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 10
+        },
+        {
+          "date": "2026-07-11",
+          "tithi": "कृष्ण एकादशी",
+          "nakshatra": "पुष्य",
+          "paksha": "कृष्ण",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 11,
+          "festival": "कामिका एकादशी"
+        },
+        {
+          "date": "2026-07-12",
+          "tithi": "कृष्ण द्वादशी",
+          "nakshatra": "आश्लेषा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 12
+        },
+        {
+          "date": "2026-07-13",
+          "tithi": "कृष्ण त्रयोदशी",
+          "nakshatra": "मघा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 13
+        },
+        {
+          "date": "2026-07-14",
+          "tithi": "कृष्ण चतुर्दशी",
+          "nakshatra": "पूर्व फाल्गुनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 14
+        },
+        {
+          "date": "2026-07-15",
+          "tithi": "अमावस्या",
+          "nakshatra": "उत्तर फाल्गुनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 15,
+          "festival": "हरियाली अमावस्या"
+        },
+        {
+          "date": "2026-07-16",
+          "tithi": "शुक्ल प्रतिपदा",
+          "nakshatra": "हस्त",
+          "paksha": "शुक्ल",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 16
+        },
+        {
+          "date": "2026-07-17",
+          "tithi": "शुक्ल द्वितीया",
+          "nakshatra": "चित्रा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 17
+        },
+        {
+          "date": "2026-07-18",
+          "tithi": "शुक्ल तृतीया",
+          "nakshatra": "स्वाति",
+          "paksha": "शुक्ल",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 18
+        },
+        {
+          "date": "2026-07-19",
+          "tithi": "शुक्ल चतुर्थी",
+          "nakshatra": "विशाखा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 19
+        },
+        {
+          "date": "2026-07-20",
+          "tithi": "शुक्ल पंचमी",
+          "nakshatra": "अनुराधा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 20
+        },
+        {
+          "date": "2026-07-21",
+          "tithi": "शुक्ल षष्ठी",
+          "nakshatra": "ज्येष्ठा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 21
+        },
+        {
+          "date": "2026-07-22",
+          "tithi": "शुक्ल सप्तमी",
+          "nakshatra": "मूल",
+          "paksha": "शुक्ल",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 22
+        },
+        {
+          "date": "2026-07-23",
+          "tithi": "शुक्ल अष्टमी",
+          "nakshatra": "पूर्वाषाढ़ा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 23
+        },
+        {
+          "date": "2026-07-24",
+          "tithi": "शुक्ल नवमी",
+          "nakshatra": "उत्तराषाढ़ा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 24
+        },
+        {
+          "date": "2026-07-25",
+          "tithi": "शुक्ल दशमी",
+          "nakshatra": "श्रवण",
+          "paksha": "शुक्ल",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 25
+        },
+        {
+          "date": "2026-07-26",
+          "tithi": "शुक्ल एकादशी",
+          "nakshatra": "धनिष्ठा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 26,
+          "festival": "पुत्रदा एकादशी"
+        },
+        {
+          "date": "2026-07-27",
+          "tithi": "शुक्ल द्वादशी",
+          "nakshatra": "शतभिषा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 27
+        },
+        {
+          "date": "2026-07-28",
+          "tithi": "शुक्ल त्रयोदशी",
+          "nakshatra": "पूर्व भाद्रपद",
+          "paksha": "शुक्ल",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 28
+        },
+        {
+          "date": "2026-07-29",
+          "tithi": "शुक्ल चतुर्दशी",
+          "nakshatra": "उत्तर भाद्रपद",
+          "paksha": "शुक्ल",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 29,
+          "festival": "रक्षाबंधन"
+        },
+        {
+          "date": "2026-07-30",
+          "tithi": "पूर्णिमा",
+          "nakshatra": "रेवती",
+          "paksha": "शुक्ल",
+          "hinduMonth": "श्रावण",
+          "vikramSamvat": "2083",
+          "dayNumber": 30,
+          "festival": "श्रावण पूर्णिमा, रक्षा सूत्र पूर्णिमा"
+        }
+      ],
+      "summary": {
+        "festivals": [
+          {
+            "name": "नाग पंचमी",
+            "tithi": "श्रावण कृष्ण पंचमी"
+          },
+          {
+            "name": "कामिका एकादशी",
+            "tithi": "श्रावण कृष्ण एकादशी"
+          },
+          {
+            "name": "हरियाली अमावस्या",
+            "tithi": "श्रावण अमावस्या"
+          },
+          {
+            "name": "पुत्रदा एकादशी",
+            "tithi": "श्रावण शुक्ल एकादशी"
+          },
+          {
+            "name": "रक्षाबंधन",
+            "tithi": "श्रावण पूर्णिमा"
+          }
+        ],
+        "ayurvedicAdvice": [
+          {
+            "category": "आहार",
+            "advice": "सादा, घर और सुपाच्य भोजन का सेवन करें खासतौर बरसात काल में होता है।"
+          },
+          {
+            "category": "विहार",
+            "advice": "बारी बरसात बाहरमेला के बिना में बारे वारसीन दर्शन न्यायसिद्ध होती करें।"
+          },
+          {
+            "category": "औषधि",
+            "advice": "सौंठ मासालो में बरसात माध्यम से बिताइये और पुन सत्कर्मो का पालन करें।"
+          }
+        ]
+      }
+    },
+    "भाद्रपद-2083": {
+      "days": [
+        {
+          "date": "2026-07-31",
+          "tithi": "कृष्ण प्रतिपदा",
+          "nakshatra": "अश्विनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 1
+        },
+        {
+          "date": "2026-08-01",
+          "tithi": "कृष्ण द्वितीया",
+          "nakshatra": "भरणी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 2
+        },
+        {
+          "date": "2026-08-02",
+          "tithi": "कृष्ण तृतीया",
+          "nakshatra": "कृत्तिका",
+          "paksha": "कृष्ण",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 3,
+          "festival": "कजरी तीज"
+        },
+        {
+          "date": "2026-08-03",
+          "tithi": "कृष्ण चतुर्थी",
+          "nakshatra": "रोहिणी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 4
+        },
+        {
+          "date": "2026-08-04",
+          "tithi": "कृष्ण पंचमी",
+          "nakshatra": "मृगशिरा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 5
+        },
+        {
+          "date": "2026-08-05",
+          "tithi": "कृष्ण षष्ठी",
+          "nakshatra": "आर्द्रा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 6,
+          "festival": "हलषष्ठी"
+        },
+        {
+          "date": "2026-08-06",
+          "tithi": "कृष्ण सप्तमी",
+          "nakshatra": "पुनर्वसु",
+          "paksha": "कृष्ण",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 7
+        },
+        {
+          "date": "2026-08-07",
+          "tithi": "कृष्ण अष्टमी",
+          "nakshatra": "पुष्य",
+          "paksha": "कृष्ण",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 8,
+          "festival": "जन्माष्टमी"
+        },
+        {
+          "date": "2026-08-08",
+          "tithi": "कृष्ण नवमी",
+          "nakshatra": "आश्लेषा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 9
+        },
+        {
+          "date": "2026-08-09",
+          "tithi": "कृष्ण दशमी",
+          "nakshatra": "मघा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 10
+        },
+        {
+          "date": "2026-08-10",
+          "tithi": "कृष्ण एकादशी",
+          "nakshatra": "पूर्व फाल्गुनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 11,
+          "festival": "अजा एकादशी"
+        },
+        {
+          "date": "2026-08-11",
+          "tithi": "कृष्ण द्वादशी",
+          "nakshatra": "उत्तर फाल्गुनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 12
+        },
+        {
+          "date": "2026-08-12",
+          "tithi": "कृष्ण त्रयोदशी",
+          "nakshatra": "हस्त",
+          "paksha": "कृष्ण",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 13
+        },
+        {
+          "date": "2026-08-13",
+          "tithi": "कृष्ण चतुर्दशी",
+          "nakshatra": "चित्रा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 14
+        },
+        {
+          "date": "2026-08-14",
+          "tithi": "अमावस्या",
+          "nakshatra": "स्वाति",
+          "paksha": "कृष्ण",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 15,
+          "festival": "भाद्रपद अमावस्या"
+        },
+        {
+          "date": "2026-08-15",
+          "tithi": "शुक्ल प्रतिपदा",
+          "nakshatra": "विशाखा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 16,
+          "festival": "स्वतंत्रता दिवस"
+        },
+        {
+          "date": "2026-08-16",
+          "tithi": "शुक्ल द्वितीया",
+          "nakshatra": "अनुराधा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 17
+        },
+        {
+          "date": "2026-08-17",
+          "tithi": "शुक्ल तृतीया",
+          "nakshatra": "ज्येष्ठा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 18,
+          "festival": "हरतालिका तीज"
+        },
+        {
+          "date": "2026-08-18",
+          "tithi": "शुक्ल चतुर्थी",
+          "nakshatra": "मूल",
+          "paksha": "शुक्ल",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 19,
+          "festival": "गणेश चतुर्थी"
+        },
+        {
+          "date": "2026-08-19",
+          "tithi": "शुक्ल पंचमी",
+          "nakshatra": "पूर्वाषाढ़ा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 20,
+          "festival": "ऋषि पंचमी"
+        },
+        {
+          "date": "2026-08-20",
+          "tithi": "शुक्ल षष्ठी",
+          "nakshatra": "उत्तराषाढ़ा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 21
+        },
+        {
+          "date": "2026-08-21",
+          "tithi": "शुक्ल सप्तमी",
+          "nakshatra": "श्रवण",
+          "paksha": "शुक्ल",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 22
+        },
+        {
+          "date": "2026-08-22",
+          "tithi": "शुक्ल अष्टमी",
+          "nakshatra": "धनिष्ठा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 23
+        },
+        {
+          "date": "2026-08-23",
+          "tithi": "शुक्ल नवमी",
+          "nakshatra": "शतभिषा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 24
+        },
+        {
+          "date": "2026-08-24",
+          "tithi": "शुक्ल दशमी",
+          "nakshatra": "पूर्व भाद्रपद",
+          "paksha": "शुक्ल",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 25
+        },
+        {
+          "date": "2026-08-25",
+          "tithi": "शुक्ल एकादशी",
+          "nakshatra": "उत्तर भाद्रपद",
+          "paksha": "शुक्ल",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 26,
+          "festival": "परिवर्तिनी एकादशी"
+        },
+        {
+          "date": "2026-08-26",
+          "tithi": "शुक्ल द्वादशी",
+          "nakshatra": "रेवती",
+          "paksha": "शुक्ल",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 27
+        },
+        {
+          "date": "2026-08-27",
+          "tithi": "शुक्ल त्रयोदशी",
+          "nakshatra": "अश्विनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 28,
+          "festival": "अनंत चतुर्दशी"
+        },
+        {
+          "date": "2026-08-28",
+          "tithi": "शुक्ल चतुर्दशी",
+          "nakshatra": "भरणी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "भाद्रपद",
+          "vikramSamvat": "2083",
+          "dayNumber": 29
+        }
+      ],
+      "summary": {
+        "festivals": [
+          {
+            "name": "जन्माष्टमी",
+            "tithi": "भाद्रपद कृष्ण अष्टमी"
+          },
+          {
+            "name": "गणेश चतुर्थी",
+            "tithi": "भाद्रपद शुक्ल चतुर्थी"
+          },
+          {
+            "name": "ऋषि पंचमी",
+            "tithi": "भाद्रपद शुक्ल पंचमी"
+          },
+          {
+            "name": "हरतालिका तीज",
+            "tithi": "भाद्रपद शुक्ल तृतीया"
+          },
+          {
+            "name": "अनंत चतुर्दशी",
+            "tithi": "भाद्रपद शुक्ल चतुर्दशी"
+          },
+          {
+            "name": "अजा एकादशी",
+            "tithi": "भाद्रपद कृष्ण एकादशी"
+          }
+        ],
+        "ayurvedicAdvice": [
+          {
+            "category": "आहार",
+            "advice": "इस माह में पित्त प्रधान होता है, अच्छा वातवरण और सुपाच्य भोजन करना चाहिए।"
+          },
+          {
+            "category": "विहार",
+            "advice": "पुराने घी, दूध, और पक्व अनाज का सेवन विशेष बल में नारी इंद्री है।"
+          },
+          {
+            "category": "औषधि",
+            "advice": "सौंठ मासालो में बरसात माध्यम में बिताइये और पुन सत्कर्मों का पालन करें।"
+          }
+        ]
+      }
+    },
+    "अश्विन-2083": {
+      "days": [
+        {
+          "date": "2026-08-29",
+          "tithi": "कृष्ण प्रतिपदा",
+          "nakshatra": "कृत्तिका",
+          "paksha": "कृष्ण",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 1
+        },
+        {
+          "date": "2026-08-30",
+          "tithi": "कृष्ण द्वितीया",
+          "nakshatra": "रोहिणी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 2
+        },
+        {
+          "date": "2026-08-31",
+          "tithi": "कृष्ण तृतीया",
+          "nakshatra": "मृगशिरा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 3
+        },
+        {
+          "date": "2026-09-01",
+          "tithi": "कृष्ण चतुर्थी",
+          "nakshatra": "आर्द्रा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 4
+        },
+        {
+          "date": "2026-09-02",
+          "tithi": "कृष्ण पंचमी",
+          "nakshatra": "पुनर्वसु",
+          "paksha": "कृष्ण",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 5
+        },
+        {
+          "date": "2026-09-03",
+          "tithi": "कृष्ण षष्ठी",
+          "nakshatra": "पुष्य",
+          "paksha": "कृष्ण",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 6
+        },
+        {
+          "date": "2026-09-04",
+          "tithi": "कृष्ण सप्तमी",
+          "nakshatra": "आश्लेषा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 7
+        },
+        {
+          "date": "2026-09-05",
+          "tithi": "कृष्ण अष्टमी",
+          "nakshatra": "मघा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 8
+        },
+        {
+          "date": "2026-09-06",
+          "tithi": "कृष्ण नवमी",
+          "nakshatra": "पूर्व फाल्गुनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 9,
+          "festival": "महालया श्राद्ध"
+        },
+        {
+          "date": "2026-09-07",
+          "tithi": "कृष्ण दशमी",
+          "nakshatra": "उत्तर फाल्गुनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 10
+        },
+        {
+          "date": "2026-09-08",
+          "tithi": "कृष्ण एकादशी",
+          "nakshatra": "हस्त",
+          "paksha": "कृष्ण",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 11,
+          "festival": "इंदिरा एकादशी"
+        },
+        {
+          "date": "2026-09-09",
+          "tithi": "कृष्ण द्वादशी",
+          "nakshatra": "चित्रा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 12
+        },
+        {
+          "date": "2026-09-10",
+          "tithi": "कृष्ण त्रयोदशी",
+          "nakshatra": "स्वाति",
+          "paksha": "कृष्ण",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 13
+        },
+        {
+          "date": "2026-09-11",
+          "tithi": "कृष्ण चतुर्दशी",
+          "nakshatra": "विशाखा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 14,
+          "festival": "सर्वपितृ अमावस्या"
+        },
+        {
+          "date": "2026-09-12",
+          "tithi": "अमावस्या",
+          "nakshatra": "अनुराधा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 15,
+          "festival": "अश्विन अमावस्या"
+        },
+        {
+          "date": "2026-09-13",
+          "tithi": "शुक्ल प्रतिपदा",
+          "nakshatra": "ज्येष्ठा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 16,
+          "festival": "शारदीय नवरात्र प्रारंभ"
+        },
+        {
+          "date": "2026-09-14",
+          "tithi": "शुक्ल द्वितीया",
+          "nakshatra": "मूल",
+          "paksha": "शुक्ल",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 17
+        },
+        {
+          "date": "2026-09-15",
+          "tithi": "शुक्ल तृतीया",
+          "nakshatra": "पूर्वाषाढ़ा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 18
+        },
+        {
+          "date": "2026-09-16",
+          "tithi": "शुक्ल चतुर्थी",
+          "nakshatra": "उत्तराषाढ़ा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 19
+        },
+        {
+          "date": "2026-09-17",
+          "tithi": "शुक्ल पंचमी",
+          "nakshatra": "श्रवण",
+          "paksha": "शुक्ल",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 20
+        },
+        {
+          "date": "2026-09-18",
+          "tithi": "शुक्ल षष्ठी",
+          "nakshatra": "धनिष्ठा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 21
+        },
+        {
+          "date": "2026-09-19",
+          "tithi": "शुक्ल सप्तमी",
+          "nakshatra": "शतभिषा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 22,
+          "festival": "महा सप्तमी"
+        },
+        {
+          "date": "2026-09-20",
+          "tithi": "शुक्ल अष्टमी",
+          "nakshatra": "पूर्व भाद्रपद",
+          "paksha": "शुक्ल",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 23,
+          "festival": "दुर्गा अष्टमी"
+        },
+        {
+          "date": "2026-09-21",
+          "tithi": "शुक्ल नवमी",
+          "nakshatra": "उत्तर भाद्रपद",
+          "paksha": "शुक्ल",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 24,
+          "festival": "महा नवमी"
+        },
+        {
+          "date": "2026-09-22",
+          "tithi": "शुक्ल दशमी",
+          "nakshatra": "रेवती",
+          "paksha": "शुक्ल",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 25,
+          "festival": "विजयादशमी (दशहरा)"
+        },
+        {
+          "date": "2026-09-23",
+          "tithi": "शुक्ल एकादशी",
+          "nakshatra": "अश्विनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 26,
+          "festival": "पापांकुशा एकादशी"
+        },
+        {
+          "date": "2026-09-24",
+          "tithi": "शुक्ल द्वादशी",
+          "nakshatra": "भरणी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 27
+        },
+        {
+          "date": "2026-09-25",
+          "tithi": "शुक्ल त्रयोदशी",
+          "nakshatra": "कृत्तिका",
+          "paksha": "शुक्ल",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 28
+        },
+        {
+          "date": "2026-09-26",
+          "tithi": "शुक्ल चतुर्दशी",
+          "nakshatra": "रोहिणी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 29
+        },
+        {
+          "date": "2026-09-27",
+          "tithi": "पूर्णिमा",
+          "nakshatra": "मृगशिरा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "अश्विन",
+          "vikramSamvat": "2083",
+          "dayNumber": 30,
+          "festival": "शरद पूर्णिमा"
+        }
+      ],
+      "summary": {
+        "festivals": [
+          {
+            "name": "महालया श्राद्ध",
+            "tithi": "अश्विन कृष्ण पक्ष"
+          },
+          {
+            "name": "शारदीय नवरात्र",
+            "tithi": "अश्विन शुक्ल प्रतिपदा"
+          },
+          {
+            "name": "दुर्गा अष्टमी",
+            "tithi": "अश्विन शुक्ल अष्टमी"
+          },
+          {
+            "name": "महा नवमी",
+            "tithi": "अश्विन शुक्ल नवमी"
+          },
+          {
+            "name": "विजयादशमी",
+            "tithi": "अश्विन शुक्ल दशमी"
+          },
+          {
+            "name": "शरद पूर्णिमा",
+            "tithi": "अश्विन पूर्णिमा"
+          }
+        ],
+        "ayurvedicAdvice": [
+          {
+            "category": "आहार",
+            "advice": "शिशिर ऋतु की तैय और उदरपे का सेवन करें और सुपाच्य भोजन करें।"
+          },
+          {
+            "category": "विहार",
+            "advice": "घी, दूध, असन्दना और पत्तल फलो को आहार में सम्मिलित करें।"
+          },
+          {
+            "category": "औषधि",
+            "advice": "प्रातोंकाल शुद्ध पान मॅक्सिमम (व्यापा) करें और ज्ञान का सेवन करें।"
+          }
+        ]
+      }
+    },
+    "कार्तिक-2083": {
+      "days": [
+        {
+          "date": "2026-09-28",
+          "tithi": "कृष्ण प्रतिपदा",
+          "nakshatra": "आर्द्रा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 1
+        },
+        {
+          "date": "2026-09-29",
+          "tithi": "कृष्ण द्वितीया",
+          "nakshatra": "पुनर्वसु",
+          "paksha": "कृष्ण",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 2
+        },
+        {
+          "date": "2026-09-30",
+          "tithi": "कृष्ण तृतीया",
+          "nakshatra": "पुष्य",
+          "paksha": "कृष्ण",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 3
+        },
+        {
+          "date": "2026-10-01",
+          "tithi": "कृष्ण चतुर्थी",
+          "nakshatra": "आश्लेषा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 4,
+          "festival": "करवा चौथ"
+        },
+        {
+          "date": "2026-10-02",
+          "tithi": "कृष्ण पंचमी",
+          "nakshatra": "मघा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 5
+        },
+        {
+          "date": "2026-10-03",
+          "tithi": "कृष्ण षष्ठी",
+          "nakshatra": "पूर्व फाल्गुनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 6
+        },
+        {
+          "date": "2026-10-04",
+          "tithi": "कृष्ण सप्तमी",
+          "nakshatra": "उत्तर फाल्गुनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 7
+        },
+        {
+          "date": "2026-10-05",
+          "tithi": "कृष्ण अष्टमी",
+          "nakshatra": "हस्त",
+          "paksha": "कृष्ण",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 8,
+          "festival": "अहोई अष्टमी"
+        },
+        {
+          "date": "2026-10-06",
+          "tithi": "कृष्ण नवमी",
+          "nakshatra": "चित्रा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 9
+        },
+        {
+          "date": "2026-10-07",
+          "tithi": "कृष्ण दशमी",
+          "nakshatra": "स्वाति",
+          "paksha": "कृष्ण",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 10
+        },
+        {
+          "date": "2026-10-08",
+          "tithi": "कृष्ण एकादशी",
+          "nakshatra": "विशाखा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 11,
+          "festival": "रमा एकादशी"
+        },
+        {
+          "date": "2026-10-09",
+          "tithi": "कृष्ण द्वादशी",
+          "nakshatra": "अनुराधा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 12,
+          "festival": "धनतेरस"
+        },
+        {
+          "date": "2026-10-10",
+          "tithi": "कृष्ण त्रयोदशी",
+          "nakshatra": "ज्येष्ठा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 13,
+          "festival": "नरक चतुर्दशी (छोटी दिवाली)"
+        },
+        {
+          "date": "2026-10-11",
+          "tithi": "कृष्ण चतुर्दशी",
+          "nakshatra": "मूल",
+          "paksha": "कृष्ण",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 14,
+          "festival": "दीपावली"
+        },
+        {
+          "date": "2026-10-12",
+          "tithi": "अमावस्या",
+          "nakshatra": "पूर्वाषाढ़ा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 15,
+          "festival": "लक्ष्मी पूजा"
+        },
+        {
+          "date": "2026-10-13",
+          "tithi": "शुक्ल प्रतिपदा",
+          "nakshatra": "उत्तराषाढ़ा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 16,
+          "festival": "गोवर्धन पूजा"
+        },
+        {
+          "date": "2026-10-14",
+          "tithi": "शुक्ल द्वितीया",
+          "nakshatra": "श्रवण",
+          "paksha": "शुक्ल",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 17,
+          "festival": "भाई दूज"
+        },
+        {
+          "date": "2026-10-15",
+          "tithi": "शुक्ल तृतीया",
+          "nakshatra": "धनिष्ठा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 18
+        },
+        {
+          "date": "2026-10-16",
+          "tithi": "शुक्ल चतुर्थी",
+          "nakshatra": "शतभिषा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 19
+        },
+        {
+          "date": "2026-10-17",
+          "tithi": "शुक्ल पंचमी",
+          "nakshatra": "पूर्व भाद्रपद",
+          "paksha": "शुक्ल",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 20
+        },
+        {
+          "date": "2026-10-18",
+          "tithi": "शुक्ल षष्ठी",
+          "nakshatra": "उत्तर भाद्रपद",
+          "paksha": "शुक्ल",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 21,
+          "festival": "छठ पूजा"
+        },
+        {
+          "date": "2026-10-19",
+          "tithi": "शुक्ल सप्तमी",
+          "nakshatra": "रेवती",
+          "paksha": "शुक्ल",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 22
+        },
+        {
+          "date": "2026-10-20",
+          "tithi": "शुक्ल अष्टमी",
+          "nakshatra": "अश्विनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 23
+        },
+        {
+          "date": "2026-10-21",
+          "tithi": "शुक्ल नवमी",
+          "nakshatra": "भरणी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 24
+        },
+        {
+          "date": "2026-10-22",
+          "tithi": "शुक्ल दशमी",
+          "nakshatra": "कृत्तिका",
+          "paksha": "शुक्ल",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 25
+        },
+        {
+          "date": "2026-10-23",
+          "tithi": "शुक्ल एकादशी",
+          "nakshatra": "रोहिणी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 26,
+          "festival": "देवउठनी एकादशी"
+        },
+        {
+          "date": "2026-10-24",
+          "tithi": "शुक्ल द्वादशी",
+          "nakshatra": "मृगशिरा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 27
+        },
+        {
+          "date": "2026-10-25",
+          "tithi": "शुक्ल त्रयोदशी",
+          "nakshatra": "आर्द्रा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 28
+        },
+        {
+          "date": "2026-10-26",
+          "tithi": "शुक्ल चतुर्दशी",
+          "nakshatra": "पुनर्वसु",
+          "paksha": "शुक्ल",
+          "hinduMonth": "कार्तिक",
+          "vikramSamvat": "2083",
+          "dayNumber": 29
+        }
+      ],
+      "summary": {
+        "festivals": [
+          {
+            "name": "करवा चौथ",
+            "tithi": "कार्तिक कृष्ण चतुर्थी"
+          },
+          {
+            "name": "धनतेरस",
+            "tithi": "कार्तिक कृष्ण द्वादशी"
+          },
+          {
+            "name": "दीपावली",
+            "tithi": "कार्तिक अमावस्या"
+          },
+          {
+            "name": "गोवर्धन पूजा",
+            "tithi": "कार्तिक शुक्ल प्रतिपदा"
+          },
+          {
+            "name": "भाई दूज",
+            "tithi": "कार्तिक शुक्ल द्वितीया"
+          },
+          {
+            "name": "छठ पूजा",
+            "tithi": "कार्तिक शुक्ल षष्ठी"
+          },
+          {
+            "name": "देवउठनी एकादशी",
+            "tithi": "कार्तिक शुक्ल एकादशी"
+          }
+        ],
+        "ayurvedicAdvice": [
+          {
+            "category": "आहार",
+            "advice": "शीतकाल तस हे माय पा दुर्गामे अक्सर काह का सेवन करें खासतौर शाट पापव बनवत हो रहा होता है।"
+          },
+          {
+            "category": "विहार",
+            "advice": "घी और जल अक्सर का सेवन करें, सरसो खवरी में खानोंन और ज्ञान की पूर्ति सोगना है।"
+          },
+          {
+            "category": "औषधि",
+            "advice": "सौंचि मासारो और जड़ अख्य से पहले से खरगदास हवा मन्जबटालं करें।"
+          }
+        ]
+      }
+    },
+    "मार्गशीर्ष-2083": {
+      "days": [
+        {
+          "date": "2026-10-27",
+          "tithi": "कृष्ण प्रतिपदा",
+          "nakshatra": "पुष्य",
+          "paksha": "कृष्ण",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 1
+        },
+        {
+          "date": "2026-10-28",
+          "tithi": "कृष्ण द्वितीया",
+          "nakshatra": "आश्लेषा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 2
+        },
+        {
+          "date": "2026-10-29",
+          "tithi": "कृष्ण तृतीया",
+          "nakshatra": "मघा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 3
+        },
+        {
+          "date": "2026-10-30",
+          "tithi": "कृष्ण चतुर्थी",
+          "nakshatra": "पूर्व फाल्गुनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 4
+        },
+        {
+          "date": "2026-10-31",
+          "tithi": "कृष्ण पंचमी",
+          "nakshatra": "उत्तर फाल्गुनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 5
+        },
+        {
+          "date": "2026-11-01",
+          "tithi": "कृष्ण षष्ठी",
+          "nakshatra": "हस्त",
+          "paksha": "कृष्ण",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 6
+        },
+        {
+          "date": "2026-11-02",
+          "tithi": "कृष्ण सप्तमी",
+          "nakshatra": "चित्रा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 7
+        },
+        {
+          "date": "2026-11-03",
+          "tithi": "कृष्ण अष्टमी",
+          "nakshatra": "स्वाति",
+          "paksha": "कृष्ण",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 8
+        },
+        {
+          "date": "2026-11-04",
+          "tithi": "कृष्ण नवमी",
+          "nakshatra": "विशाखा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 9
+        },
+        {
+          "date": "2026-11-05",
+          "tithi": "कृष्ण दशमी",
+          "nakshatra": "अनुराधा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 10
+        },
+        {
+          "date": "2026-11-06",
+          "tithi": "कृष्ण एकादशी",
+          "nakshatra": "ज्येष्ठा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 11,
+          "festival": "उत्पन्ना एकादशी"
+        },
+        {
+          "date": "2026-11-07",
+          "tithi": "कृष्ण द्वादशी",
+          "nakshatra": "मूल",
+          "paksha": "कृष्ण",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 12
+        },
+        {
+          "date": "2026-11-08",
+          "tithi": "कृष्ण त्रयोदशी",
+          "nakshatra": "पूर्वाषाढ़ा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 13
+        },
+        {
+          "date": "2026-11-09",
+          "tithi": "कृष्ण चतुर्दशी",
+          "nakshatra": "उत्तराषाढ़ा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 14
+        },
+        {
+          "date": "2026-11-10",
+          "tithi": "अमावस्या",
+          "nakshatra": "श्रवण",
+          "paksha": "कृष्ण",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 15,
+          "festival": "मार्गशीर्ष अमावस्या"
+        },
+        {
+          "date": "2026-11-11",
+          "tithi": "शुक्ल प्रतिपदा",
+          "nakshatra": "धनिष्ठा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 16
+        },
+        {
+          "date": "2026-11-12",
+          "tithi": "शुक्ल द्वितीया",
+          "nakshatra": "शतभिषा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 17
+        },
+        {
+          "date": "2026-11-13",
+          "tithi": "शुक्ल तृतीया",
+          "nakshatra": "पूर्व भाद्रपद",
+          "paksha": "शुक्ल",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 18
+        },
+        {
+          "date": "2026-11-14",
+          "tithi": "शुक्ल चतुर्थी",
+          "nakshatra": "उत्तर भाद्रपद",
+          "paksha": "शुक्ल",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 19
+        },
+        {
+          "date": "2026-11-15",
+          "tithi": "शुक्ल पंचमी",
+          "nakshatra": "रेवती",
+          "paksha": "शुक्ल",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 20
+        },
+        {
+          "date": "2026-11-16",
+          "tithi": "शुक्ल षष्ठी",
+          "nakshatra": "अश्विनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 21
+        },
+        {
+          "date": "2026-11-17",
+          "tithi": "शुक्ल सप्तमी",
+          "nakshatra": "भरणी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 22
+        },
+        {
+          "date": "2026-11-18",
+          "tithi": "शुक्ल अष्टमी",
+          "nakshatra": "कृत्तिका",
+          "paksha": "शुक्ल",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 23
+        },
+        {
+          "date": "2026-11-19",
+          "tithi": "शुक्ल नवमी",
+          "nakshatra": "रोहिणी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 24
+        },
+        {
+          "date": "2026-11-20",
+          "tithi": "शुक्ल दशमी",
+          "nakshatra": "मृगशिरा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 25,
+          "festival": "गीता जयंती"
+        },
+        {
+          "date": "2026-11-21",
+          "tithi": "शुक्ल एकादशी",
+          "nakshatra": "आर्द्रा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 26,
+          "festival": "मोक्षदा एकादशी"
+        },
+        {
+          "date": "2026-11-22",
+          "tithi": "शुक्ल द्वादशी",
+          "nakshatra": "पुनर्वसु",
+          "paksha": "शुक्ल",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 27
+        },
+        {
+          "date": "2026-11-23",
+          "tithi": "शुक्ल त्रयोदशी",
+          "nakshatra": "पुष्य",
+          "paksha": "शुक्ल",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 28
+        },
+        {
+          "date": "2026-11-24",
+          "tithi": "शुक्ल चतुर्दशी",
+          "nakshatra": "आश्लेषा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 29
+        },
+        {
+          "date": "2026-11-25",
+          "tithi": "पूर्णिमा",
+          "nakshatra": "मघा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "मार्गशीर्ष",
+          "vikramSamvat": "2083",
+          "dayNumber": 30,
+          "festival": "मार्गशीर्ष पूर्णिमा, दत्तात्रेय जयंती"
+        }
+      ],
+      "summary": {
+        "festivals": [
+          {
+            "name": "उत्पन्ना एकादशी",
+            "tithi": "मार्गशीर्ष कृष्ण एकादशी"
+          },
+          {
+            "name": "गीता जयंती",
+            "tithi": "मार्गशीर्ष शुक्ल दशमी"
+          },
+          {
+            "name": "मोक्षदा एकादशी",
+            "tithi": "मार्गशीर्ष शुक्ल एकादशी"
+          },
+          {
+            "name": "दत्तात्रेय जयंती",
+            "tithi": "मार्गशीर्ष पूर्णिमा"
+          }
+        ],
+        "ayurvedicAdvice": [
+          {
+            "category": "आहार",
+            "advice": "गरम, ताजा और सुपाच्य भोजन का सेवन करें।"
+          },
+          {
+            "category": "विहार",
+            "advice": "तिल, गुड़, अमला और सूट अन्न को आहार में सम्मिलित करें।"
+          },
+          {
+            "category": "औषधि",
+            "advice": "प्रातोंकाल शुद्ध थीं मॅक्सिमम (व्यापा) करें और शीत मसालोंक का सेवन करें।"
+          }
+        ]
+      }
+    },
+    "पौष-2083": {
+      "days": [
+        {
+          "date": "2026-11-26",
+          "tithi": "कृष्ण प्रतिपदा",
+          "nakshatra": "पूर्व फाल्गुनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 1
+        },
+        {
+          "date": "2026-11-27",
+          "tithi": "कृष्ण द्वितीया",
+          "nakshatra": "उत्तर फाल्गुनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 2
+        },
+        {
+          "date": "2026-11-28",
+          "tithi": "कृष्ण तृतीया",
+          "nakshatra": "हस्त",
+          "paksha": "कृष्ण",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 3
+        },
+        {
+          "date": "2026-11-29",
+          "tithi": "कृष्ण चतुर्थी",
+          "nakshatra": "चित्रा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 4
+        },
+        {
+          "date": "2026-11-30",
+          "tithi": "कृष्ण पंचमी",
+          "nakshatra": "स्वाति",
+          "paksha": "कृष्ण",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 5
+        },
+        {
+          "date": "2026-12-01",
+          "tithi": "कृष्ण षष्ठी",
+          "nakshatra": "विशाखा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 6
+        },
+        {
+          "date": "2026-12-02",
+          "tithi": "कृष्ण सप्तमी",
+          "nakshatra": "अनुराधा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 7
+        },
+        {
+          "date": "2026-12-03",
+          "tithi": "कृष्ण अष्टमी",
+          "nakshatra": "ज्येष्ठा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 8
+        },
+        {
+          "date": "2026-12-04",
+          "tithi": "कृष्ण नवमी",
+          "nakshatra": "मूल",
+          "paksha": "कृष्ण",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 9
+        },
+        {
+          "date": "2026-12-05",
+          "tithi": "कृष्ण दशमी",
+          "nakshatra": "पूर्वाषाढ़ा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 10
+        },
+        {
+          "date": "2026-12-06",
+          "tithi": "कृष्ण एकादशी",
+          "nakshatra": "उत्तराषाढ़ा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 11,
+          "festival": "सफला एकादशी"
+        },
+        {
+          "date": "2026-12-07",
+          "tithi": "कृष्ण द्वादशी",
+          "nakshatra": "श्रवण",
+          "paksha": "कृष्ण",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 12
+        },
+        {
+          "date": "2026-12-08",
+          "tithi": "कृष्ण त्रयोदशी",
+          "nakshatra": "धनिष्ठा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 13
+        },
+        {
+          "date": "2026-12-09",
+          "tithi": "कृष्ण चतुर्दशी",
+          "nakshatra": "शतभिषा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 14
+        },
+        {
+          "date": "2026-12-10",
+          "tithi": "अमावस्या",
+          "nakshatra": "पूर्व भाद्रपद",
+          "paksha": "कृष्ण",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 15,
+          "festival": "पौष अमावस्या"
+        },
+        {
+          "date": "2026-12-11",
+          "tithi": "शुक्ल प्रतिपदा",
+          "nakshatra": "उत्तर भाद्रपद",
+          "paksha": "शुक्ल",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 16
+        },
+        {
+          "date": "2026-12-12",
+          "tithi": "शुक्ल द्वितीया",
+          "nakshatra": "रेवती",
+          "paksha": "शुक्ल",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 17
+        },
+        {
+          "date": "2026-12-13",
+          "tithi": "शुक्ल तृतीया",
+          "nakshatra": "अश्विनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 18
+        },
+        {
+          "date": "2026-12-14",
+          "tithi": "शुक्ल चतुर्थी",
+          "nakshatra": "भरणी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 19,
+          "festival": "मकर संक्रांति"
+        },
+        {
+          "date": "2026-12-15",
+          "tithi": "शुक्ल पंचमी",
+          "nakshatra": "कृत्तिका",
+          "paksha": "शुक्ल",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 20
+        },
+        {
+          "date": "2026-12-16",
+          "tithi": "शुक्ल षष्ठी",
+          "nakshatra": "रोहिणी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 21
+        },
+        {
+          "date": "2026-12-17",
+          "tithi": "शुक्ल सप्तमी",
+          "nakshatra": "मृगशिरा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 22
+        },
+        {
+          "date": "2026-12-18",
+          "tithi": "शुक्ल अष्टमी",
+          "nakshatra": "आर्द्रा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 23
+        },
+        {
+          "date": "2026-12-19",
+          "tithi": "शुक्ल नवमी",
+          "nakshatra": "पुनर्वसु",
+          "paksha": "शुक्ल",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 24
+        },
+        {
+          "date": "2026-12-20",
+          "tithi": "शुक्ल दशमी",
+          "nakshatra": "पुष्य",
+          "paksha": "शुक्ल",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 25
+        },
+        {
+          "date": "2026-12-21",
+          "tithi": "शुक्ल एकादशी",
+          "nakshatra": "आश्लेषा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 26,
+          "festival": "पुत्रदा एकादशी"
+        },
+        {
+          "date": "2026-12-22",
+          "tithi": "शुक्ल द्वादशी",
+          "nakshatra": "मघा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 27
+        },
+        {
+          "date": "2026-12-23",
+          "tithi": "शुक्ल त्रयोदशी",
+          "nakshatra": "पूर्व फाल्गुनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 28
+        },
+        {
+          "date": "2026-12-24",
+          "tithi": "शुक्ल चतुर्दशी",
+          "nakshatra": "उत्तर फाल्गुनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "पौष",
+          "vikramSamvat": "2083",
+          "dayNumber": 29
+        }
+      ],
+      "summary": {
+        "festivals": [
+          {
+            "name": "सफला एकादशी",
+            "tithi": "पौष कृष्ण एकादशी"
+          },
+          {
+            "name": "मकर संक्रांति",
+            "tithi": "पौष शुक्ल"
+          },
+          {
+            "name": "पुत्रदा एकादशी",
+            "tithi": "पौष शुक्ल एकादशी"
+          },
+          {
+            "name": "पौष पूर्णिमा",
+            "tithi": "पौष पूर्णिमा"
+          }
+        ],
+        "ayurvedicAdvice": [
+          {
+            "category": "आहार",
+            "advice": "पौष माह के उचतम को शत करने के लिये सुपाच्य प्रवर्ति विगर जोत तवी, सरदर भोजन करें।"
+          },
+          {
+            "category": "विहार",
+            "advice": "घी, गुड, जिल अय्य हवालकरने और ज्यादी बारबन जवाज़ के लिए करू है।"
+          },
+          {
+            "category": "औषधि",
+            "advice": "प्रातोंकाल शुद्ध करें सत्कालो का तिल के तेल में जन्य ( सन्य स्वास ) करें और तवि करनों का प्रयास करे।"
+          }
+        ]
+      }
+    },
+    "माघ-2083": {
+      "days": [
+        {
+          "date": "2026-12-25",
+          "tithi": "कृष्ण प्रतिपदा",
+          "nakshatra": "हस्त",
+          "paksha": "कृष्ण",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 1
+        },
+        {
+          "date": "2026-12-26",
+          "tithi": "कृष्ण द्वितीया",
+          "nakshatra": "चित्रा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 2
+        },
+        {
+          "date": "2026-12-27",
+          "tithi": "कृष्ण तृतीया",
+          "nakshatra": "स्वाति",
+          "paksha": "कृष्ण",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 3
+        },
+        {
+          "date": "2026-12-28",
+          "tithi": "कृष्ण चतुर्थी",
+          "nakshatra": "विशाखा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 4
+        },
+        {
+          "date": "2026-12-29",
+          "tithi": "कृष्ण पंचमी",
+          "nakshatra": "अनुराधा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 5
+        },
+        {
+          "date": "2026-12-30",
+          "tithi": "कृष्ण षष्ठी",
+          "nakshatra": "ज्येष्ठा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 6
+        },
+        {
+          "date": "2026-12-31",
+          "tithi": "कृष्ण सप्तमी",
+          "nakshatra": "मूल",
+          "paksha": "कृष्ण",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 7
+        },
+        {
+          "date": "2027-01-01",
+          "tithi": "कृष्ण अष्टमी",
+          "nakshatra": "पूर्वाषाढ़ा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 8
+        },
+        {
+          "date": "2027-01-02",
+          "tithi": "कृष्ण नवमी",
+          "nakshatra": "उत्तराषाढ़ा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 9
+        },
+        {
+          "date": "2027-01-03",
+          "tithi": "कृष्ण दशमी",
+          "nakshatra": "श्रवण",
+          "paksha": "कृष्ण",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 10
+        },
+        {
+          "date": "2027-01-04",
+          "tithi": "कृष्ण एकादशी",
+          "nakshatra": "धनिष्ठा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 11,
+          "festival": "षटतिला एकादशी"
+        },
+        {
+          "date": "2027-01-05",
+          "tithi": "कृष्ण द्वादशी",
+          "nakshatra": "शतभिषा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 12
+        },
+        {
+          "date": "2027-01-06",
+          "tithi": "कृष्ण त्रयोदशी",
+          "nakshatra": "पूर्व भाद्रपद",
+          "paksha": "कृष्ण",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 13
+        },
+        {
+          "date": "2027-01-07",
+          "tithi": "कृष्ण चतुर्दशी",
+          "nakshatra": "उत्तर भाद्रपद",
+          "paksha": "कृष्ण",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 14
+        },
+        {
+          "date": "2027-01-08",
+          "tithi": "अमावस्या",
+          "nakshatra": "रेवती",
+          "paksha": "कृष्ण",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 15,
+          "festival": "मौनी अमावस्या"
+        },
+        {
+          "date": "2027-01-09",
+          "tithi": "शुक्ल प्रतिपदा",
+          "nakshatra": "अश्विनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 16
+        },
+        {
+          "date": "2027-01-10",
+          "tithi": "शुक्ल द्वितीया",
+          "nakshatra": "भरणी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 17
+        },
+        {
+          "date": "2027-01-11",
+          "tithi": "शुक्ल तृतीया",
+          "nakshatra": "कृत्तिका",
+          "paksha": "शुक्ल",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 18
+        },
+        {
+          "date": "2027-01-12",
+          "tithi": "शुक्ल चतुर्थी",
+          "nakshatra": "रोहिणी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 19
+        },
+        {
+          "date": "2027-01-13",
+          "tithi": "शुक्ल पंचमी",
+          "nakshatra": "मृगशिरा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 20,
+          "festival": "वसंत पंचमी, सरस्वती पूजा"
+        },
+        {
+          "date": "2027-01-14",
+          "tithi": "शुक्ल षष्ठी",
+          "nakshatra": "आर्द्रा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 21
+        },
+        {
+          "date": "2027-01-15",
+          "tithi": "शुक्ल सप्तमी",
+          "nakshatra": "पुनर्वसु",
+          "paksha": "शुक्ल",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 22,
+          "festival": "रथ सप्तमी"
+        },
+        {
+          "date": "2027-01-16",
+          "tithi": "शुक्ल अष्टमी",
+          "nakshatra": "पुष्य",
+          "paksha": "शुक्ल",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 23,
+          "festival": "भीष्म अष्टमी"
+        },
+        {
+          "date": "2027-01-17",
+          "tithi": "शुक्ल नवमी",
+          "nakshatra": "आश्लेषा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 24
+        },
+        {
+          "date": "2027-01-18",
+          "tithi": "शुक्ल दशमी",
+          "nakshatra": "मघा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 25
+        },
+        {
+          "date": "2027-01-19",
+          "tithi": "शुक्ल एकादशी",
+          "nakshatra": "पूर्व फाल्गुनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 26,
+          "festival": "जया एकादशी"
+        },
+        {
+          "date": "2027-01-20",
+          "tithi": "शुक्ल द्वादशी",
+          "nakshatra": "उत्तर फाल्गुनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 27
+        },
+        {
+          "date": "2027-01-21",
+          "tithi": "शुक्ल त्रयोदशी",
+          "nakshatra": "हस्त",
+          "paksha": "शुक्ल",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 28
+        },
+        {
+          "date": "2027-01-22",
+          "tithi": "शुक्ल चतुर्दशी",
+          "nakshatra": "चित्रा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 29
+        },
+        {
+          "date": "2027-01-23",
+          "tithi": "पूर्णिमा",
+          "nakshatra": "स्वाति",
+          "paksha": "शुक्ल",
+          "hinduMonth": "माघ",
+          "vikramSamvat": "2083",
+          "dayNumber": 30,
+          "festival": "माघ पूर्णिमा"
+        }
+      ],
+      "summary": {
+        "festivals": [
+          {
+            "name": "षटतिला एकादशी",
+            "tithi": "माघ कृष्ण एकादशी"
+          },
+          {
+            "name": "मौनी अमावस्या",
+            "tithi": "माघ अमावस्या"
+          },
+          {
+            "name": "वसंत पंचमी",
+            "tithi": "माघ शुक्ल पंचमी"
+          },
+          {
+            "name": "रथ सप्तमी",
+            "tithi": "माघ शुक्ल सप्तमी"
+          },
+          {
+            "name": "भीष्म अष्टमी",
+            "tithi": "माघ शुक्ल अष्टमी"
+          },
+          {
+            "name": "जया एकादशी",
+            "tithi": "माघ शुक्ल एकादशी"
+          },
+          {
+            "name": "माघ पूर्णिमा",
+            "tithi": "माघ पूर्णिमा"
+          }
+        ],
+        "ayurvedicAdvice": [
+          {
+            "category": "आहार",
+            "advice": "ज्ञान को तेल, गुड और अमला का साद्य बारावे करें, सरसो और काफी साम्रुत्य पीते रहे।"
+          },
+          {
+            "category": "विहार",
+            "advice": "भ्रामण शीत खोटों से बचने के क्रम में शवासन को बदरामोमे करे, सनभरस्कारम पालात रहे।"
+          },
+          {
+            "category": "औषधि",
+            "advice": "प्रातोंकाल शुद्ध करें तेल मालिश ( अभ्यंग ) करें और त्रवि करनों का प्रयास करें।"
+          }
+        ]
+      }
+    },
+    "फाल्गुन-2083": {
+      "days": [
+        {
+          "date": "2027-01-24",
+          "tithi": "कृष्ण प्रतिपदा",
+          "nakshatra": "विशाखा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 1
+        },
+        {
+          "date": "2027-01-25",
+          "tithi": "कृष्ण द्वितीया",
+          "nakshatra": "अनुराधा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 2
+        },
+        {
+          "date": "2027-01-26",
+          "tithi": "कृष्ण तृतीया",
+          "nakshatra": "ज्येष्ठा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 3
+        },
+        {
+          "date": "2027-01-27",
+          "tithi": "कृष्ण चतुर्थी",
+          "nakshatra": "मूल",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 4
+        },
+        {
+          "date": "2027-01-28",
+          "tithi": "कृष्ण पंचमी",
+          "nakshatra": "पूर्वाषाढ़ा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 5
+        },
+        {
+          "date": "2027-01-29",
+          "tithi": "कृष्ण षष्ठी",
+          "nakshatra": "उत्तराषाढ़ा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 6
+        },
+        {
+          "date": "2027-01-30",
+          "tithi": "कृष्ण सप्तमी",
+          "nakshatra": "श्रवण",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 7
+        },
+        {
+          "date": "2027-01-31",
+          "tithi": "कृष्ण अष्टमी",
+          "nakshatra": "धनिष्ठा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 8
+        },
+        {
+          "date": "2027-02-01",
+          "tithi": "कृष्ण नवमी",
+          "nakshatra": "शतभिषा",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 9
+        },
+        {
+          "date": "2027-02-02",
+          "tithi": "कृष्ण दशमी",
+          "nakshatra": "पूर्व भाद्रपद",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 10
+        },
+        {
+          "date": "2027-02-03",
+          "tithi": "कृष्ण एकादशी",
+          "nakshatra": "उत्तर भाद्रपद",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 11,
+          "festival": "विजया एकादशी"
+        },
+        {
+          "date": "2027-02-04",
+          "tithi": "कृष्ण द्वादशी",
+          "nakshatra": "रेवती",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 12
+        },
+        {
+          "date": "2027-02-05",
+          "tithi": "कृष्ण त्रयोदशी",
+          "nakshatra": "अश्विनी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 13,
+          "festival": "महाशिवरात्रि"
+        },
+        {
+          "date": "2027-02-06",
+          "tithi": "कृष्ण चतुर्दशी",
+          "nakshatra": "भरणी",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 14
+        },
+        {
+          "date": "2027-02-07",
+          "tithi": "अमावस्या",
+          "nakshatra": "कृत्तिका",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 15,
+          "festival": "फाल्गुन अमावस्या"
+        },
+        {
+          "date": "2027-02-08",
+          "tithi": "शुक्ल प्रतिपदा",
+          "nakshatra": "रोहिणी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 16
+        },
+        {
+          "date": "2027-02-09",
+          "tithi": "शुक्ल द्वितीया",
+          "nakshatra": "मृगशिरा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 17
+        },
+        {
+          "date": "2027-02-10",
+          "tithi": "शुक्ल तृतीया",
+          "nakshatra": "आर्द्रा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 18
+        },
+        {
+          "date": "2027-02-11",
+          "tithi": "शुक्ल चतुर्थी",
+          "nakshatra": "पुनर्वसु",
+          "paksha": "शुक्ल",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 19
+        },
+        {
+          "date": "2027-02-12",
+          "tithi": "शुक्ल पंचमी",
+          "nakshatra": "पुष्य",
+          "paksha": "शुक्ल",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 20
+        },
+        {
+          "date": "2027-02-13",
+          "tithi": "शुक्ल षष्ठी",
+          "nakshatra": "आश्लेषा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 21
+        },
+        {
+          "date": "2027-02-14",
+          "tithi": "शुक्ल सप्तमी",
+          "nakshatra": "मघा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 22
+        },
+        {
+          "date": "2027-02-15",
+          "tithi": "शुक्ल अष्टमी",
+          "nakshatra": "पूर्व फाल्गुनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 23
+        },
+        {
+          "date": "2027-02-16",
+          "tithi": "शुक्ल नवमी",
+          "nakshatra": "उत्तर फाल्गुनी",
+          "paksha": "शुक्ल",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 24
+        },
+        {
+          "date": "2027-02-17",
+          "tithi": "शुक्ल दशमी",
+          "nakshatra": "हस्त",
+          "paksha": "शुक्ल",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 25
+        },
+        {
+          "date": "2027-02-18",
+          "tithi": "शुक्ल एकादशी",
+          "nakshatra": "चित्रा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 26,
+          "festival": "आमलकी एकादशी"
+        },
+        {
+          "date": "2027-02-19",
+          "tithi": "शुक्ल द्वादशी",
+          "nakshatra": "स्वाति",
+          "paksha": "शुक्ल",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 27
+        },
+        {
+          "date": "2027-02-20",
+          "tithi": "शुक्ल त्रयोदशी",
+          "nakshatra": "विशाखा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 28
+        },
+        {
+          "date": "2027-02-21",
+          "tithi": "शुक्ल चतुर्दशी",
+          "nakshatra": "अनुराधा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 29
+        },
+        {
+          "date": "2027-02-22",
+          "tithi": "पूर्णिमा",
+          "nakshatra": "ज्येष्ठा",
+          "paksha": "शुक्ल",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 30,
+          "festival": "होलिका दहन, फाल्गुन पूर्णिमा"
+        },
+        {
+          "date": "2027-02-23",
+          "tithi": "कृष्ण प्रतिपदा",
+          "nakshatra": "",
+          "paksha": "कृष्ण",
+          "hinduMonth": "फाल्गुन",
+          "vikramSamvat": "2083",
+          "dayNumber": 31
+        }
+      ],
+      "summary": {
+        "festivals": [
+          {
+            "name": "महाशिवरात्रि",
+            "tithi": "फाल्गुन कृष्ण त्रयोदशी"
+          },
+          {
+            "name": "विजया एकादशी",
+            "tithi": "फाल्गुन कृष्ण एकादशी"
+          },
+          {
+            "name": "आमलकी एकादशी",
+            "tithi": "फाल्गुन शुक्ल एकादशी"
+          },
+          {
+            "name": "होलिका दहन",
+            "tithi": "फाल्गुन पूर्णिमा"
+          }
+        ],
+        "ayurvedicAdvice": [
+          {
+            "category": "आहार",
+            "advice": "फाल्गुन महीने में काय गोद का अच्या फैला है, सरसोंढ़ा खाइना और सुपाच्य भोजन करें।"
+          },
+          {
+            "category": "विहार",
+            "advice": "गुल्लक घी, दूल और सहन्ना फली को आहार में परत पीते रहे।"
+          },
+          {
+            "category": "औषधि",
+            "advice": "नियमित रूप में सहभ्य की तैल मालिश ( प्रक्षालम ) करें और त्वक् स्वास्थ्य प्रदत्त करना है।"
+          }
+        ]
+      }
+    }
+  }
+}
