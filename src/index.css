@@ -19,17 +19,17 @@
 
 @media print {
   @page {
-    size: 18in 15in landscape;
+    size: 15in 18in portrait;
     margin: 0;
   }
   .no-print {
     display: none;
   }
   .print-area {
-    width: 18in;
-    height: 15in;
+    width: 15in;
+    height: 18in;
     margin: 0;
-    padding: 0.5in;
+    padding: 0;
     box-shadow: none;
   }
 }

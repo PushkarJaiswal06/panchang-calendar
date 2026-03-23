@@ -49,8 +49,29 @@ const HINDI_NUMERALS: Record<string, string> = {
   "9": "९",
 };
 
+const TITHI_NUMERAL_MAP: Record<string, string> = {
+  प्रतिपदा: "१",
+  द्वितीया: "२",
+  तृतीया: "३",
+  चतुर्थी: "४",
+  पंचमी: "५",
+  षष्ठी: "६",
+  सप्तमी: "७",
+  अष्टमी: "८",
+  नवमी: "९",
+  दशमी: "१०",
+  एकादशी: "११",
+  द्वादशी: "१२",
+  त्रयोदशी: "१३",
+  चतुर्दशी: "१४",
+  पूर्णिमा: "१५",
+  अमावस्या: "३०",
+};
+
 const PRIMARY_LOGO_URL =
   "src/data/images/prim_logo.png";
+const PANCH_PARIVARTAN_IMAGE_URL =
+  "src/data/images/panch_parivartan.png";
 const SECONDARY_LOGO_URL =
   "https://res.cloudinary.com/dsg5tzzdg/image/upload/v1773212315/100-removebg-preview_l8ijbg.png";
 
@@ -66,6 +87,13 @@ function toHindiNumerals(val: string | number): string {
     .split("")
     .map((char) => HINDI_NUMERALS[char] || char)
     .join("");
+}
+
+function getTithiHindiNumber(tithi: string): string {
+  for (const [name, number] of Object.entries(TITHI_NUMERAL_MAP)) {
+    if (tithi.includes(name)) return number;
+  }
+  return "";
 }
 
 const GATIVIDHIS_IMG_URLS = [
@@ -182,6 +210,21 @@ const GATIVIDHIS = [
   },
 ];
 
+const MONTH_KARYA: Record<string, string[]> = {
+  चैत्र: ["स्थापना दिवस", "वर्ष प्रतिपदा"],
+  वैशाख: ["परिचायक वर्ग"],
+  ज्येष्ठ: ["संपर्क", "कार्यकारिणी विस्तार", "नई कार्यकारिणी गठन"],
+  आषाढ़: ["संपर्क", "कार्यकारिणी विस्तार", "नई कार्यकारिणी गठन"],
+  श्रावण: ["व्यास पूजन उत्सव (आषाढ़ शुक्ल पूर्णिमा २९ जुलाई)", "तत्पश्चात सदस्यता अभियान"],
+  भाद्रपद: ["शिक्षकों के बीच सम्पर्क", "आनन्दशालाएं", "शिक्षक स्वाध्याय", "शिक्षक सम्मान"],
+  अश्विन: ["नए सम्पर्क", "दीपावली मिलन सम्बन्धित कार्यक्रम"],
+  कार्तिक: ["आनन्दशालाएं"],
+  मार्गशीर्ष: ["विमर्श के कार्यक्रम", "शिक्षा नीति पर चर्चा"],
+  पौष: ["निबन्ध लेखन", "युवा दिवस सम्बंधित प्रतियोगिताएं एवं उद्बोधन", "माघ मेला दर्शन"],
+  माघ: ["वसन्त पंचमी", "देव दर्शन"],
+  फाल्गुन: ["होली मिलन"],
+};
+
 interface MonthProps {
   monthName: string;
   vikramSamvat: string;
@@ -204,6 +247,7 @@ const MonthGrid = ({
     panchangData.length > 0 ? new Date(panchangData[0].date) : new Date();
   const startDayOfWeek = getDay(firstDay);
   const monthImageUrl = GATIVIDHIS_IMG_URLS[monthIndex] || "";
+  const monthKarya = MONTH_KARYA[monthName] || [];
 
   const gridDays = useMemo(() => {
     const days = [];
@@ -225,7 +269,7 @@ const MonthGrid = ({
   }, [panchangData]);
 
   return (
-    <div className="flex flex-col h-full border-2 border-maroon/20 bg-white p-4 rounded-sm shadow-sm relative">
+    <div className="flex flex-col border-2 border-maroon/20 bg-white/75 p-4 rounded-sm shadow-sm relative">
       {/* Header Section */}
       <div className="relative z-10 flex justify-between items-end mb-4 border-b-2 border-saffron pb-2">
         <div className="flex flex-col">
@@ -245,10 +289,10 @@ const MonthGrid = ({
           <div className="flex flex-col items-end">
             <span className="text-xs font-hindi text-maroon/60">पक्ष</span>
             <div className="flex gap-2">
-              <span className="text-xs font-hindi px-1 bg-gray-100 text-gray-600 rounded">
+              <span className="text-xs font-hindi px-1 bg-saffron/20 text-maroon rounded">
                 कृष्ण
               </span>
-              <span className="text-xs font-hindi px-1 bg-saffron/20 text-maroon rounded">
+              <span className="text-xs font-hindi px-1 bg-gray-100 text-gray-600 rounded">
                 शुक्ल
               </span>
             </div>
@@ -300,16 +344,6 @@ const MonthGrid = ({
         {/* Date Grid + Right Info Panel */}
         <div className="relative flex-1 flex gap-4">
           <div className="relative flex-1">
-            {/* Watermark centered on the dates table */}
-            <div className="absolute inset-0 flex items-center justify-center pointer-events-none z-100">
-              <img
-                src={PRIMARY_LOGO_URL}
-                alt=""
-                className="w-550 h-550 object-contain opacity-[0.08]"
-                referrerPolicy="no-referrer"
-              />
-            </div>
-
             <div className="relative z-10 grid grid-cols-7 gap-px bg-maroon/10 border border-maroon/10">
               {DAYS_HINDI.map((day) => (
                 <div key={day} className="bg-saffron/10 p-1 text-center">
@@ -323,59 +357,65 @@ const MonthGrid = ({
                   return (
                     <div
                       key={idx}
-                      className="bg-gray-50/50 h-16 border-t border-l border-maroon/5"
+                      className="bg-gray-50/50 h-20 border-t border-l border-maroon/5"
                     />
                   );
 
                 const dateObj = new Date(day.date);
                 const isSun = getDay(dateObj) === 0;
 
+                const tithiNumber = getTithiHindiNumber(day.tithi);
+
                 return (
                   <div
                     key={idx}
                     className={cn(
-                      "bg-white h-16 p-1 flex flex-col justify-between border-t border-l border-maroon/5",
-                      isSun && "bg-saffron/5",
+                      "h-20 p-1 flex flex-col border-t border-l border-maroon/5",
+                      day.paksha === "कृष्ण" ? "bg-saffron/10" : "bg-gray-100",
+                      isSun && "ring-1 ring-inset ring-maroon/10",
                     )}
                   >
-                    {/* Hindi Data at Top */}
-                    <div className="flex flex-col gap-0.5">
-                      <div className="flex justify-between items-center">
-                        <span className="text-[15px] font-hindi text-maroon/80 leading-none font-medium">
-                          {day.tithi}
-                        </span>
-                        <span
-                          className={cn(
-                            "text-[12px] font-hindi px-0.5 rounded",
-                            day.paksha === "शुक्ल"
-                              ? "bg-saffron/20 text-maroon"
-                              : "bg-gray-200 text-gray-600",
-                          )}
-                        >
-                          {day.paksha === "शुक्ल" ? "शु" : "कृ"}
-                        </span>
-                      </div>
-                      <span className="text-[10px] font-hindi text-red/40 leading-none italic">
+                    {/* Top-left: Tithi + Nakshatra */}
+                    <div className="flex flex-col gap-0.5 text-left">
+                      <span
+                        className="font-hindi text-maroon/80 leading-none font-medium whitespace-nowrap"
+                        style={{ fontSize: day.tithi.length > 11 ? "10px" : "12px" }}
+                      >
+                        {day.tithi}
+                      </span>
+                      <span
+                        className="font-hindi text-red/50 leading-none italic whitespace-nowrap"
+                        style={{ fontSize: day.nakshatra.length > 8 ? "7px" : "8px" }}
+                      >
                         {day.nakshatra}
                       </span>
                     </div>
 
-                    {/* English Date at Bottom (Converted to Hindi Numerals) */}
-                    <div className="flex justify-between items-end">
+                    {/* Center: Hindi tithi number */}
+                    <div className="flex-1 flex items-center justify-center">
+                      <span className="text-[32px] font-hindi font-bold leading-none text-maroon">
+                        {tithiNumber}
+                      </span>
+                    </div>
+
+                    {/* Bottom: Festival left, Gregorian date right */}
+                    <div className="flex justify-between items-end gap-1 -translate-y-1">
+                      {day.festival ? (
+                        <span className="text-[7px] font-hindi text-white bg-maroon px-1 rounded leading-tight text-left max-w-[68%] truncate">
+                          {day.festival}
+                        </span>
+                      ) : (
+                        <span />
+                      )}
                       <span
                         className={cn(
-                          "text-lg font-serif font-bold leading-none",
+                          "text-[10px] font-hindi font-bold leading-none shrink-0",
                           isSun ? "text-maroon" : "text-gray-800",
                           isToday(dateObj) && "text-saffron",
                         )}
                       >
-                        {toHindiNumerals(format(dateObj, "d"))}
+                        ता॰ {format(dateObj, "d")}
                       </span>
-                      {day.festival && (
-                        <span className="text-[7px] font-hindi text-white bg-maroon px-1 rounded leading-tight text-right max-w-[70%] truncate">
-                          {day.festival}
-                        </span>
-                      )}
                     </div>
                   </div>
                 );
@@ -383,8 +423,8 @@ const MonthGrid = ({
             </div>
           </div>
 
-          {/* Right Panel: Festivals and Ayurvedic Advice */}
-          <div className="relative z-10 w-[26%] min-w-[240px] flex flex-col gap-3">
+          {/* Right Panel: कार्य + Festivals and Ayurvedic Advice */}
+          <div className="relative z-10 w-[38%] min-w-[340px] flex flex-col gap-3">
             <div className="border border-maroon/10 rounded-sm bg-white/40 p-2">
               <h4 className="text-[11px] font-hindi font-bold text-maroon border-b border-maroon/10 mb-1 pb-0.5">
                 प्रमुख उत्सव एवं तिथियाँ
@@ -414,6 +454,20 @@ const MonthGrid = ({
                   </div>
                 ))}
               </div>
+            </div>
+
+            <div className="border border-maroon/10 rounded-sm bg-white/40 p-2">
+              <h4 className="text-[11px] font-hindi font-bold text-maroon border-b border-maroon/10 mb-1 pb-0.5">
+                कार्य
+              </h4>
+              <ul className="space-y-1">
+                {monthKarya.map((item, i) => (
+                  <li key={i} className="text-[10px] font-hindi text-maroon leading-tight flex gap-1">
+                    <span>•</span>
+                    <span>{item}</span>
+                  </li>
+                ))}
+              </ul>
             </div>
           </div>
         </div>
@@ -451,7 +505,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-stone-100 p-4 md:p-8">
       {/* Controls */}
-      <div className="max-w-[18in] mx-auto mb-6 flex justify-between items-center no-print">
+      <div className="max-w-360 mx-auto mb-6 flex justify-between items-center no-print">
         <div className="flex items-center gap-4">
           <button
             onClick={handlePrev}
@@ -483,17 +537,33 @@ export default function App() {
             className="flex items-center gap-2 bg-maroon text-white px-6 py-2 rounded-full hover:bg-maroon/90 transition-all shadow-lg"
           >
             <Printer className="w-4 h-4" />
-            <span className="font-hindi">प्रिंट (१८ × १५)</span>
+            <span className="font-hindi">प्रिंट (१५ × १८)</span>
           </button>
         </div>
       </div>
 
       {/* Calendar Print Area */}
-      <div className="max-w-[18in] mx-auto print-area bg-saffron/15 shadow-2xl border-[12px] border-maroon relative overflow-hidden">
+      <div className="max-w-360 mx-auto print-area bg-saffron/15 shadow-2xl relative overflow-hidden">
         {/* Decorative Border Pattern */}
+        <div className="absolute inset-0 border-12 border-maroon pointer-events-none" />
         <div className="absolute inset-0 border-[24px] border-saffron/10 pointer-events-none" />
+        <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+          <img
+            src={PRIMARY_LOGO_URL}
+            alt=""
+            className="w-[70%] max-w-[1100px] object-contain opacity-[0.08]"
+            referrerPolicy="no-referrer"
+          />
+        </div>
+        <div className="absolute bottom-8 right-8 z-20 pointer-events-none">
+          <img
+            src={PANCH_PARIVARTAN_IMAGE_URL}
+            alt="पंच परिवर्तन"
+            className="w-44 h-auto object-contain"
+          />
+        </div>
 
-        <div className="relative z-10 p-12 h-full flex flex-col">
+        <div className="relative z-10 p-12 flex flex-col items-stretch">
           {/* Calendar Header */}
           <div className="text-center mb-8 flex flex-col items-center">
               <h4 className="text-4xl font-hindi font-bold text-maroon mb-1 tracking-wide leading-none">
@@ -537,7 +607,7 @@ export default function App() {
           </div>
 
           {/* 3 Hindu Months Layout */}
-          <div className="grid grid-rows-3 gap-8 flex-1">
+          <div className="grid gap-8">
             {currentMonths.map((monthName, idx) => {
               const monthIdx = pageIndex * 3 + idx;
               const data = panchangCache[`${monthName}-2083`];
@@ -568,7 +638,7 @@ export default function App() {
       </div>
 
       {/* Instructions */}
-      <div className="max-w-[18in] mx-auto mt-8 p-6 bg-white rounded-xl border border-maroon/10 no-print">
+      <div className="max-w-360 mx-auto mt-8 p-6 bg-white rounded-xl border border-maroon/10 no-print">
         {/* <h3 className="font-hindi font-bold text-maroon mb-2">निर्देश:</h3> */}
         <ul className="list-disc list-inside text-sm text-maroon/70 space-y-1 font-hindi">
           {/* <li>यह कैलेंडर पूर्णतः **पंचांग पद्धति** (Lunar Months) पर आधारित है।</li>

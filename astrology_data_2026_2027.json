@@ -1,0 +1,707 @@
+[
+    {
+        "date": "2026-03-19",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 1, \\\"name\\\": \\\"Pratipat\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-03-20 03:41:44\\\", \\\"left_precentage\\\": 98.1}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 26, \"name\": \"Uttaraabhadra\", \"starts_at\": \"2026-03-19 04:06:26\", \"ends_at\": \"2026-03-20 02:57:10\", \"remaining_percentage_at_given_time\": 91.75390240735578}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-03-20",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 2, \\\"name\\\": \\\"Dwitiya\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-03-21 01:30:26\\\", \\\"left_precentage\\\": 89.44}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 27, \"name\": \"Revati\", \"starts_at\": \"2026-03-20 02:57:13\", \"ends_at\": \"2026-03-21 01:29:47\", \"remaining_percentage_at_given_time\": 86.50591599620287}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-03-21",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 3, \\\"name\\\": \\\"Tritiya\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-03-21 23:08:28\\\", \\\"left_precentage\\\": 79.22}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 1, \"name\": \"Aswini\", \"starts_at\": \"2026-03-21 01:29:49\", \"ends_at\": \"2026-03-21 23:51:49\", \"remaining_percentage_at_given_time\": 79.85051652467018}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-03-22",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 4, \\\"name\\\": \\\"Chaturthi\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-03-22 20:42:58\\\", \\\"left_precentage\\\": 68.14}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 2, \"name\": \"Bharani\", \"starts_at\": \"2026-03-21 23:51:52\", \"ends_at\": \"2026-03-22 22:10:41\", \"remaining_percentage_at_given_time\": 72.4331180891955}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-03-23",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 5, \\\"name\\\": \\\"Panchami\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-03-23 18:20:33\\\", \\\"left_precentage\\\": 56.95}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 3, \"name\": \"Krittika\", \"starts_at\": \"2026-03-22 22:10:44\", \"ends_at\": \"2026-03-23 20:33:04\", \"remaining_percentage_at_given_time\": 64.91411124963543}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-03-24",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 6, \\\"name\\\": \\\"Shahshthi\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-03-24 16:06:49\\\", \\\"left_precentage\\\": 46.29}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 4, \"name\": \"Rohini\", \"starts_at\": \"2026-03-23 20:33:06\", \"ends_at\": \"2026-03-24 19:04:35\", \"remaining_percentage_at_given_time\": 57.88051005431825}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-03-25",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 7, \\\"name\\\": \\\"Saptami\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-03-25 14:06:04\\\", \\\"left_precentage\\\": 36.66}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 5, \"name\": \"Mrigasira\", \"starts_at\": \"2026-03-24 19:04:38\", \"ends_at\": \"2026-03-25 17:49:34\", \"remaining_percentage_at_given_time\": 51.782745710668074}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-03-26",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 8, \\\"name\\\": \\\"Ashtami\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-03-26 12:21:26\\\", \\\"left_precentage\\\": 28.4}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 6, \"name\": \"Aardra\", \"starts_at\": \"2026-03-25 17:49:36\", \"ends_at\": \"2026-03-26 16:50:56\", \"remaining_percentage_at_given_time\": 46.91063847955471}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-03-27",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 9, \\\"name\\\": \\\"Navami\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-03-27 10:54:53\\\", \\\"left_precentage\\\": 21.65}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 7, \"name\": \"Punarvasu\", \"starts_at\": \"2026-03-26 16:50:58\", \"ends_at\": \"2026-03-27 16:10:25\", \"remaining_percentage_at_given_time\": 43.40833413880561}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-03-28",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 10, \\\"name\\\": \\\"Dashami\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-03-28 09:47:22\\\", \\\"left_precentage\\\": 16.46}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 8, \"name\": \"Pushyami\", \"starts_at\": \"2026-03-27 16:10:27\", \"ends_at\": \"2026-03-28 15:48:48\", \"remaining_percentage_at_given_time\": 41.31294826368308}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-03-29",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 11, \\\"name\\\": \\\"Ekadashi\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-03-29 08:59:19\\\", \\\"left_precentage\\\": 12.8}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 9, \"name\": \"Aaslesha\", \"starts_at\": \"2026-03-28 15:48:50\", \"ends_at\": \"2026-03-29 15:46:20\", \"remaining_percentage_at_given_time\": 40.59944230066855}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-03-30",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 12, \\\"name\\\": \\\"Dwadashi\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-03-30 08:30:48\\\", \\\"left_precentage\\\": 10.61}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 10, \"name\": \"Makha\", \"starts_at\": \"2026-03-29 15:46:22\", \"ends_at\": \"2026-03-30 16:03:07\", \"remaining_percentage_at_given_time\": 41.22151301687931}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-03-31",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 13, \\\"name\\\": \\\"Trayodashi\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-03-31 08:22:11\\\", \\\"left_precentage\\\": 9.87}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 11, \"name\": \"Poorva Phalguni(Pubba)\", \"starts_at\": \"2026-03-30 16:03:09\", \"ends_at\": \"2026-03-31 16:39:29\", \"remaining_percentage_at_given_time\": 43.141498153275215}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-01",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 14, \\\"name\\\": \\\"Chaturdashi\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-04-01 08:34:03\\\", \\\"left_precentage\\\": 10.55}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 12, \"name\": \"Uttara Phalguni(Uttara)\", \"starts_at\": \"2026-03-31 16:39:32\", \"ends_at\": \"2026-04-01 17:36:08\", \"remaining_percentage_at_given_time\": 46.343292524028946}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-02",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 15, \\\"name\\\": \\\"Poornima\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-04-02 09:07:20\\\", \\\"left_precentage\\\": 12.64}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 13, \"name\": \"Hasta\", \"starts_at\": \"2026-04-01 17:36:11\", \"ends_at\": \"2026-04-02 18:53:54\", \"remaining_percentage_at_given_time\": 50.826376889754705}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-03",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 16, \\\"name\\\": \\\"Pratipat\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-04-03 10:02:51\\\", \\\"left_precentage\\\": 16.15}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 14, \"name\": \"Chitta\", \"starts_at\": \"2026-04-02 18:53:56\", \"ends_at\": \"2026-04-03 20:33:19\", \"remaining_percentage_at_given_time\": 56.58489426624971}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-04",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 17, \\\"name\\\": \\\"Dwitiya\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-04-04 11:20:39\\\", \\\"left_precentage\\\": 21.02}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 15, \"name\": \"Swati\", \"starts_at\": \"2026-04-03 20:33:22\", \"ends_at\": \"2026-04-04 22:33:58\", \"remaining_percentage_at_given_time\": 63.579666922034086}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-05",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 18, \\\"name\\\": \\\"Tritiya\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-04-05 12:59:22\\\", \\\"left_precentage\\\": 27.16}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 16, \"name\": \"Visakha\", \"starts_at\": \"2026-04-04 22:34:00\", \"ends_at\": \"2026-04-06 00:53:36\", \"remaining_percentage_at_given_time\": 71.71107730332321}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-06",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 19, \\\"name\\\": \\\"Chaturthi\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-04-06 14:55:32\\\", \\\"left_precentage\\\": 34.35}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 17, \"name\": \"Anuradha\", \"starts_at\": \"2026-04-06 00:53:39\", \"ends_at\": \"2026-04-07 03:27:33\", \"remaining_percentage_at_given_time\": 80.7977110630076}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-07",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 20, \\\"name\\\": \\\"Panchami\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-04-07 17:02:45\\\", \\\"left_precentage\\\": 42.29}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 18, \"name\": \"Jyeshta\", \"starts_at\": \"2026-04-07 03:27:36\", \"ends_at\": \"2026-04-08 06:10:02\", \"remaining_percentage_at_given_time\": 90.56268154483162}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-08",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 21, \\\"name\\\": \\\"Shahshthi\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-04-08 19:11:52\\\", \\\"left_precentage\\\": 50.56}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 18, \"name\": \"Jyeshta\", \"starts_at\": \"2026-04-07 03:27:36\", \"ends_at\": \"2026-04-08 06:10:02\", \"remaining_percentage_at_given_time\": 0.6290035677806998}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-09",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 22, \\\"name\\\": \\\"Saptami\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-04-09 21:11:28\\\", \\\"left_precentage\\\": 58.64}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 19, \"name\": \"Moola\", \"starts_at\": \"2026-04-08 06:10:05\", \"ends_at\": \"2026-04-09 08:47:26\", \"remaining_percentage_at_given_time\": 10.526357861775367}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-10",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 23, \\\"name\\\": \\\"Ashtami\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-04-10 22:49:36\\\", \\\"left_precentage\\\": 65.92}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 20, \"name\": \"Poorvaashaada\", \"starts_at\": \"2026-04-09 08:47:29\", \"ends_at\": \"2026-04-10 11:09:47\", \"remaining_percentage_at_given_time\": 19.71092198765328}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-11",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 24, \\\"name\\\": \\\"Navami\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-04-11 23:55:29\\\", \\\"left_precentage\\\": 71.75}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 21, \"name\": \"Uttaraashaada\", \"starts_at\": \"2026-04-10 11:09:50\", \"ends_at\": \"2026-04-11 13:05:41\", \"remaining_percentage_at_given_time\": 27.596819320119778}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-12",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 25, \\\"name\\\": \\\"Dashami\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-04-13 00:21:08\\\", \\\"left_precentage\\\": 75.48}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 22, \"name\": \"Sravanam\", \"starts_at\": \"2026-04-11 13:05:43\", \"ends_at\": \"2026-04-12 14:25:43\", \"remaining_percentage_at_given_time\": 33.59607978539401}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-13",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 26, \\\"name\\\": \\\"Ekadashi\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-04-14 00:02:11\\\", \\\"left_precentage\\\": 76.51}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 23, \"name\": \"Dhanishta\", \"starts_at\": \"2026-04-12 14:25:46\", \"ends_at\": \"2026-04-13 15:03:45\", \"remaining_percentage_at_given_time\": 37.167236901574746}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-14",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 27, \\\"name\\\": \\\"Dwadashi\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-04-14 22:58:18\\\", \\\"left_precentage\\\": 74.36}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 24, \"name\": \"Satabisha\", \"starts_at\": \"2026-04-13 15:03:48\", \"ends_at\": \"2026-04-14 14:57:34\", \"remaining_percentage_at_given_time\": 37.8774150268165}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-15",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 28, \\\"name\\\": \\\"Trayodashi\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-04-15 21:12:44\\\", \\\"left_precentage\\\": 68.75}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 25, \"name\": \"Poorvaabhadra\", \"starts_at\": \"2026-04-14 14:57:36\", \"ends_at\": \"2026-04-15 14:08:49\", \"remaining_percentage_at_given_time\": 35.480964159054565}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-16",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 29, \\\"name\\\": \\\"Chaturdashi\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-04-16 18:51:35\\\", \\\"left_precentage\\\": 59.71}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 26, \"name\": \"Uttaraabhadra\", \"starts_at\": \"2026-04-15 14:08:51\", \"ends_at\": \"2026-04-16 12:42:38\", \"remaining_percentage_at_given_time\": 30.00486801671019}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-17",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 30, \\\"name\\\": \\\"Amawasya\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-04-17 16:03:13\\\", \\\"left_precentage\\\": 47.65}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 27, \"name\": \"Revati\", \"starts_at\": \"2026-04-16 12:42:41\", \"ends_at\": \"2026-04-17 10:46:48\", \"remaining_percentage_at_given_time\": 21.812883116113753}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 1, \"lunar_month_name\": \"Chaitram\", \"lunar_month_full_name\": \"Chaitram\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-18",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 1, \\\"name\\\": \\\"Pratipat\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-04-18 12:57:01\\\", \\\"left_precentage\\\": 33.36}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 1, \"name\": \"Aswini\", \"starts_at\": \"2026-04-17 10:46:50\", \"ends_at\": \"2026-04-18 08:30:45\", \"remaining_percentage_at_given_time\": 11.611372578714338}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-19",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 2, \\\"name\\\": \\\"Dwitiya\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-04-19 09:43:07\\\", \\\"left_precentage\\\": 17.9}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 2, \"name\": \"Bharani\", \"starts_at\": \"2026-04-18 08:30:47\", \"ends_at\": \"2026-04-19 06:04:48\", \"remaining_percentage_at_given_time\": 0.37281413470115865}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-20",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 3, \\\"name\\\": \\\"Tritiya\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-04-20 06:31:21\\\", \\\"left_precentage\\\": 2.5}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 4, \"name\": \"Rohini\", \"starts_at\": \"2026-04-20 03:40:38\", \"ends_at\": \"2026-04-21 01:25:49\", \"remaining_percentage_at_given_time\": 89.18533728341438}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-21",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 5, \\\"name\\\": \\\"Panchami\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-04-22 00:52:18\\\", \\\"left_precentage\\\": 88.29}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 5, \"name\": \"Mrigasira\", \"starts_at\": \"2026-04-21 01:25:51\", \"ends_at\": \"2026-04-21 23:30:05\", \"remaining_percentage_at_given_time\": 79.06988232456473}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-22",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 6, \\\"name\\\": \\\"Shahshthi\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-04-22 22:38:21\\\", \\\"left_precentage\\\": 76.14}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 6, \"name\": \"Aardra\", \"starts_at\": \"2026-04-21 23:30:07\", \"ends_at\": \"2026-04-22 22:00:23\", \"remaining_percentage_at_given_time\": 70.82236958698486}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-23",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 7, \\\"name\\\": \\\"Saptami\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-04-23 20:55:23\\\", \\\"left_precentage\\\": 66.61}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 7, \"name\": \"Punarvasu\", \"starts_at\": \"2026-04-22 22:00:25\", \"ends_at\": \"2026-04-23 21:01:26\", \"remaining_percentage_at_given_time\": 64.92846321054833}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-24",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 8, \\\"name\\\": \\\"Ashtami\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-04-24 19:45:40\\\", \\\"left_precentage\\\": 59.89}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 8, \"name\": \"Pushyami\", \"starts_at\": \"2026-04-23 21:01:28\", \"ends_at\": \"2026-04-24 20:35:27\", \"remaining_percentage_at_given_time\": 61.56339871752704}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-25",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 9, \\\"name\\\": \\\"Navami\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-04-25 19:09:13\\\", \\\"left_precentage\\\": 55.88}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 9, \"name\": \"Aaslesha\", \"starts_at\": \"2026-04-24 20:35:30\", \"ends_at\": \"2026-04-25 20:42:14\", \"remaining_percentage_at_given_time\": 60.65252257792793}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-26",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 10, \\\"name\\\": \\\"Dashami\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-04-26 19:04:03\\\", \\\"left_precentage\\\": 54.34}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 10, \"name\": \"Makha\", \"starts_at\": \"2026-04-25 20:42:17\", \"ends_at\": \"2026-04-26 21:19:31\", \"remaining_percentage_at_given_time\": 61.95788312137763}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-27",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 11, \\\"name\\\": \\\"Ekadashi\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-04-27 19:26:52\\\", \\\"left_precentage\\\": 54.9}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 11, \"name\": \"Poorva Phalguni(Pubba)\", \"starts_at\": \"2026-04-26 21:19:34\", \"ends_at\": \"2026-04-27 22:23:47\", \"remaining_percentage_at_given_time\": 65.16416579628543}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-28",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 12, \\\"name\\\": \\\"Dwadashi\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-04-28 20:13:47\\\", \\\"left_precentage\\\": 57.21}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 12, \"name\": \"Uttara Phalguni(Uttara)\", \"starts_at\": \"2026-04-27 22:23:49\", \"ends_at\": \"2026-04-28 23:51:05\", \"remaining_percentage_at_given_time\": 69.9475769177489}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-29",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 13, \\\"name\\\": \\\"Trayodashi\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-04-29 21:21:12\\\", \\\"left_precentage\\\": 60.95}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 13, \"name\": \"Hasta\", \"starts_at\": \"2026-04-28 23:51:07\", \"ends_at\": \"2026-04-30 01:37:49\", \"remaining_percentage_at_given_time\": 76.02083788636446}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-04-30",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 14, \\\"name\\\": \\\"Chaturdashi\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-04-30 22:46:11\\\", \\\"left_precentage\\\": 65.86}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 14, \"name\": \"Chitta\", \"starts_at\": \"2026-04-30 01:37:51\", \"ends_at\": \"2026-05-01 03:41:06\", \"remaining_percentage_at_given_time\": 83.1541932798454}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-05-01",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 15, \\\"name\\\": \\\"Poornima\\\", \\\"paksha\\\": \\\"shukla\\\", \\\"completes_at\\\": \\\"2026-05-02 00:26:20\\\", \\\"left_precentage\\\": 71.75}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 15, \"name\": \"Swati\", \"starts_at\": \"2026-05-01 03:41:08\", \"ends_at\": \"2026-05-02 05:59:15\", \"remaining_percentage_at_given_time\": 91.17557217711098}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-05-02",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 16, \\\"name\\\": \\\"Pratipat\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-05-03 02:19:36\\\", \\\"left_precentage\\\": 78.49}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 16, \"name\": \"Visakha\", \"starts_at\": \"2026-05-02 05:59:18\", \"ends_at\": \"2026-05-03 08:29:27\", \"remaining_percentage_at_given_time\": 99.95459138526664}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-05-03",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 17, \\\"name\\\": \\\"Dwitiya\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-05-04 04:23:36\\\", \\\"left_precentage\\\": 85.93}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 16, \"name\": \"Visakha\", \"starts_at\": \"2026-05-02 05:59:18\", \"ends_at\": \"2026-05-03 08:29:27\", \"remaining_percentage_at_given_time\": 9.375983351243732}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    },
+    {
+        "date": "2026-05-04",
+        "tithi": {
+            "statusCode": 200,
+            "output": "\"{\\\"number\\\": 18, \\\"name\\\": \\\"Tritiya\\\", \\\"paksha\\\": \\\"krishna\\\", \\\"completes_at\\\": \\\"2026-05-05 06:36:08\\\", \\\"left_precentage\\\": 93.93}\""
+        },
+        "nakshatra": {
+            "statusCode": 200,
+            "output": "{\"number\": 17, \"name\": \"Anuradha\", \"starts_at\": \"2026-05-03 08:29:30\", \"ends_at\": \"2026-05-04 11:09:13\", \"remaining_percentage_at_given_time\": 19.307922706156873}"
+        },
+        "lunar_month": {
+            "statusCode": 200,
+            "output": "{\"lunar_month_number\": 2, \"lunar_month_name\": \"Vaisakham\", \"lunar_month_full_name\": \"Vaisakham\", \"adhika\": 0, \"nija\": 0, \"kshaya\": 0}"
+        }
+    }
+]
