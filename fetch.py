@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 import time
 
 # --- CONFIGURATION ---
-API_KEY = "fNdt5Dtsqv3rBEmHsNgNk4pYOPs9TJ6i7Andfoaj" # Put your single API key here
+API_KEY = "AACJH8eI3w37v5UTST7j86gjKSoOBRdGaf8whlUZ" # Put your single API key here
 DATA_FILE = "astrology_data_2026_2027.json"
 TARGET_START_DATE = datetime(2026, 3, 19)
 TARGET_END_DATE = datetime(2027, 4, 6)
@@ -18,7 +18,7 @@ def fetch_astrology_data(endpoint, payload):
         'Content-Type': 'application/json',
         'x-api-key': API_KEY
     }
-    
+
     response = requests.post(url, headers=headers, data=json.dumps(payload))
     
     if response.status_code == 200:
